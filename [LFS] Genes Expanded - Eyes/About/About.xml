@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>[LFS] Genes Expanded - Eyes</name>
+    <author>Lazy Friday Studio</author>
+    <description>Adds in a varity of new eyes and colours</description>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <packageId>LazyFridayStudio.GenesExpandedEyes</packageId>
+    <modDependencies>
+        <li>
+            <packageId>Ludeon.RimWorld</packageId>
+            <displayName>Core</displayName>
+        </li>
+        <li>
+            <packageId>Ludeon.RimWorld.Biotech</packageId>
+            <displayName>Biotech</displayName>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Biotech</li>
+    </loadAfter>
+</ModMetaData>
