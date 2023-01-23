@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <!-- Yellow -->
+    
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_YellowFint</defName>
+        <label>gray eyes Test</label>
+        <labelShortAdj>gray-eyed</labelShortAdj>
+        <description>Carriers of this gene have pale white-gray eyes.</description>
+        <iconPath>UI/Icons/Genes/YellowfinIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Yellowfin</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Yellowfin</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+</Defs>
+        
