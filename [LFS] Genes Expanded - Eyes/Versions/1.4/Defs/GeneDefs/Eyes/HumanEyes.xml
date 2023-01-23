@@ -3,16 +3,398 @@
     <!-- Yellow -->
     
     <GeneDef ParentName="GeneEyeColor">
-        <defName>Eyes_YellowFint</defName>
-        <label>gray eyes Test</label>
-        <labelShortAdj>gray-eyed</labelShortAdj>
-        <description>Carriers of this gene have pale white-gray eyes.</description>
+        <defName>Eyes_YellowFin</defName>
+        <label>Yellow Fin Eyes</label>
+        <labelShortAdj>yellowfin-eyed</labelShortAdj>
+        <description>Carriers of this gene have yellow eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
         <iconPath>UI/Icons/Genes/YellowfinIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
             <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Yellowfin</graphicPath>
             <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Yellowfin</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_BananaSplit</defName>
+        <label>Banana Split Eyes</label>
+        <labelShortAdj>BananaSplit-eyed</labelShortAdj>
+        <description>Carriers of this gene have yellow eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/BananaSplitIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/BananaSplit</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/BananaSplit</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+    
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_TaxiCab</defName>
+        <label>Taxi Cab Eyes</label>
+        <labelShortAdj>TaxiCab-eyed</labelShortAdj>
+        <description>Carriers of this gene have yellow eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/TaxiCabIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/TaxiCab</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/TaxiCab</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+    
+    <!-- Orange -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_GoldFish</defName>
+        <label>Gold Fish Eyes</label>
+        <labelShortAdj>Goldfish-eyed</labelShortAdj>
+        <description>Carriers of this gene have Orange eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/GoldFishIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/GoldFish</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/GoldFish</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_BurntOrange</defName>
+        <label>Burnt Orange Eyes</label>
+        <labelShortAdj>BurntOrange-eyed</labelShortAdj>
+        <description>Carriers of this gene have Orange eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/BurntOrangeIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/BurntOrange</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/GoldFish</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Clay</defName>
+        <label>Clay Eyes</label>
+        <labelShortAdj>Clay-eyed</labelShortAdj>
+        <description>Carriers of this gene have Orange eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/ClayIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Clay</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Clay</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Tangerine</defName>
+        <label>Tangerine Eyes</label>
+        <labelShortAdj>Tangerine-eyed</labelShortAdj>
+        <description>Carriers of this gene have Orange eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/TangerineIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Tangerine</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Tangerine</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <!-- Purple -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_PaleLavender</defName>
+        <label>Pale Lavender Eyes</label>
+        <labelShortAdj>PaleLavender-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/PaleLavenderIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/PaleLavender</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/PaleLavender</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Lilac</defName>
+        <label>Lilac Eyes</label>
+        <labelShortAdj>Lilac-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/LilacIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Lilac</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Lilac</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Orchid</defName>
+        <label>Orchid Eyes</label>
+        <labelShortAdj>Orchid-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/OrchidIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Orchid</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Orchid</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Plum</defName>
+        <label>Plum Eyes</label>
+        <labelShortAdj>Plum-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/PlumIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Plum</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Plum</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Violet</defName>
+        <label>Violet Eyes</label>
+        <labelShortAdj>Violet-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/VioletIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Violet</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Violet</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Grape</defName>
+        <label>Grape Eyes</label>
+        <labelShortAdj>Grape-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/GrapeIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Grape</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Grape</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Purple</defName>
+        <label>Purple Eyes</label>
+        <labelShortAdj>Purple-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/PurpleIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Purple</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Purple</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Amethyst</defName>
+        <label>Amethyst Eyes</label>
+        <labelShortAdj>Amethyst-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/AmethystIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Amethyst</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Amethyst</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_PurpleHeart</defName>
+        <label>Purple Heart Eyes</label>
+        <labelShortAdj>PurpleHeart-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/PurpleHeartIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/PurpleHeart</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/PurpleHeart</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+    
+    <!-- Red -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Bubblegum</defName>
+        <label>Bubblegum Eyes</label>
+        <labelShortAdj>Bubblegum-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/BubblegumIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Bubblegum</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Bubblegum</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Fuchsia</defName>
+        <label>Fuchsia Eyes</label>
+        <labelShortAdj>Fuchsia-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/FuchsiaIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Fuchsia</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Fuchsia</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Rose</defName>
+        <label>Rose Eyes</label>
+        <labelShortAdj>Rose-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/RoseIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Rose</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Rose</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Raspberry</defName>
+        <label>Raspberry Eyes</label>
+        <labelShortAdj>Raspberry-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/RaspberryIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Raspberry</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Raspberry</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Redfish</defName>
+        <label>Redfish Eyes</label>
+        <labelShortAdj>Redfish-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/RedfishIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Redfish</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Redfish</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_FireRed</defName>
+        <label>FireRed Eyes</label>
+        <labelShortAdj>FireRed-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/FireRedIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/FireRed</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/FireRed</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_MarsRed</defName>
+        <label>Mars Red Eyes</label>
+        <labelShortAdj>MarsRed-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/MarsRedIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/MarsRed</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/MarsRed</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Cranberry</defName>
+        <label>Cranberry Eyes</label>
+        <labelShortAdj>Cranberry-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/CranberryIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Cranberry</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Cranberry</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Burgundy</defName>
+        <label>Burgundy Eyes</label>
+        <labelShortAdj>Burgundy-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/BurgundyIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Burgundy</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Burgundy</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Merlot</defName>
+        <label>Merlot Eyes</label>
+        <labelShortAdj>Bubblegum-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/MerlotIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Merlot</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Merlot</graphicPathFemale>
         </graphicData>
     </GeneDef>
 </Defs>
