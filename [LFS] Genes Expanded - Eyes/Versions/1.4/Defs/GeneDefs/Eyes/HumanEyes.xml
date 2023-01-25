@@ -8,7 +8,7 @@
         <labelShortAdj>yellowfin-eyed</labelShortAdj>
         <description>Carriers of this gene have yellow eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/YellowfinIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/YellowfinIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -23,7 +23,7 @@
         <labelShortAdj>BananaSplit-eyed</labelShortAdj>
         <description>Carriers of this gene have yellow eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/BananaSplitIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/BananaSplitIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -38,7 +38,7 @@
         <labelShortAdj>TaxiCab-eyed</labelShortAdj>
         <description>Carriers of this gene have yellow eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/TaxiCabIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/TaxiCabIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -55,7 +55,7 @@
         <labelShortAdj>Goldfish-eyed</labelShortAdj>
         <description>Carriers of this gene have Orange eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/GoldFishIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/GoldFishIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -70,7 +70,7 @@
         <labelShortAdj>BurntOrange-eyed</labelShortAdj>
         <description>Carriers of this gene have Orange eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/BurntOrangeIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/BurntOrangeIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -85,7 +85,7 @@
         <labelShortAdj>Clay-eyed</labelShortAdj>
         <description>Carriers of this gene have Orange eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/ClayIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/ClayIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -100,7 +100,7 @@
         <labelShortAdj>Tangerine-eyed</labelShortAdj>
         <description>Carriers of this gene have Orange eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/TangerineIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/TangerineIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -117,7 +117,7 @@
         <labelShortAdj>PaleLavender-eyed</labelShortAdj>
         <description>Carriers of this gene have Purple eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/PaleLavenderIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/PaleLavenderIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -132,7 +132,7 @@
         <labelShortAdj>Lilac-eyed</labelShortAdj>
         <description>Carriers of this gene have Purple eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/LilacIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/LilacIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -147,7 +147,7 @@
         <labelShortAdj>Orchid-eyed</labelShortAdj>
         <description>Carriers of this gene have Purple eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/OrchidIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/OrchidIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -162,7 +162,7 @@
         <labelShortAdj>Plum-eyed</labelShortAdj>
         <description>Carriers of this gene have Purple eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/PlumIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/PlumIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -177,7 +177,7 @@
         <labelShortAdj>Violet-eyed</labelShortAdj>
         <description>Carriers of this gene have Purple eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/VioletIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/VioletIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -192,7 +192,7 @@
         <labelShortAdj>Grape-eyed</labelShortAdj>
         <description>Carriers of this gene have Purple eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/GrapeIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/GrapeIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -207,7 +207,7 @@
         <labelShortAdj>Purple-eyed</labelShortAdj>
         <description>Carriers of this gene have Purple eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/PurpleIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/PurpleIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -222,7 +222,7 @@
         <labelShortAdj>Amethyst-eyed</labelShortAdj>
         <description>Carriers of this gene have Purple eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/AmethystIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/AmethystIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -237,7 +237,7 @@
         <labelShortAdj>PurpleHeart-eyed</labelShortAdj>
         <description>Carriers of this gene have Purple eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/PurpleHeartIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/PurpleHeartIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -254,7 +254,7 @@
         <labelShortAdj>Bubblegum-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/BubblegumIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/BubblegumIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -269,7 +269,7 @@
         <labelShortAdj>Fuchsia-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/FuchsiaIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/FuchsiaIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -284,7 +284,7 @@
         <labelShortAdj>Rose-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/RoseIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/RoseIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -299,7 +299,7 @@
         <labelShortAdj>Raspberry-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/RaspberryIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/RaspberryIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -314,7 +314,7 @@
         <labelShortAdj>Redfish-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/RedfishIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/RedfishIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -329,7 +329,7 @@
         <labelShortAdj>FireRed-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/FireRedIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/FireRedIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -344,7 +344,7 @@
         <labelShortAdj>MarsRed-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/MarsRedIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/MarsRedIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -359,7 +359,7 @@
         <labelShortAdj>Cranberry-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/CranberryIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/CranberryIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -374,7 +374,7 @@
         <labelShortAdj>Burgundy-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/BurgundyIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/BurgundyIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -389,7 +389,7 @@
         <labelShortAdj>Bubblegum-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/MerlotIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/MerlotIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -406,7 +406,7 @@
         <labelShortAdj>White-eyed</labelShortAdj>
         <description>Carriers of this gene have Monochrome eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/WhiteIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/WhiteIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -421,7 +421,7 @@
         <labelShortAdj>SilverShiner-eyed</labelShortAdj>
         <description>Carriers of this gene have Monochrome eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/SilverShinerIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/SilverShinerIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -436,7 +436,7 @@
         <labelShortAdj>GhostGrey-eyed</labelShortAdj>
         <description>Carriers of this gene have Monochrome eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/GhostGreyIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/GhostGreyIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -451,7 +451,7 @@
         <labelShortAdj>SilverSmoke-eyed</labelShortAdj>
         <description>Carriers of this gene have Monochrome eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/SilverSmokeIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/SilverSmokeIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -466,7 +466,7 @@
         <labelShortAdj>TinCan-eyed</labelShortAdj>
         <description>Carriers of this gene have Monochrome eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/TinCanIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/TinCanIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -481,7 +481,7 @@
         <labelShortAdj>SmokeScreen-eyed</labelShortAdj>
         <description>Carriers of this gene have Monochrome eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/SmokeScreenIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/SmokeScreenIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -496,7 +496,7 @@
         <labelShortAdj>ForgedSteel-eyed</labelShortAdj>
         <description>Carriers of this gene have Monochrome eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/ForgedSteelIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/ForgedSteelIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -511,7 +511,7 @@
         <labelShortAdj>IronOre-eyed</labelShortAdj>
         <description>Carriers of this gene have Monochrome eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/IronOreIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/IronOreIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -526,7 +526,7 @@
         <labelShortAdj>StormCloud-eyed</labelShortAdj>
         <description>Carriers of this gene have Monochrome eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/StormCloudIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/StormCloudIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -541,7 +541,7 @@
         <labelShortAdj>Black-eyed</labelShortAdj>
         <description>Carriers of this gene have Monochrome eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/BlackIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/BlackIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -558,7 +558,7 @@
         <labelShortAdj>Rattan-eyed</labelShortAdj>
         <description>Carriers of this gene have Brown eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/RattanIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/RattanIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -573,7 +573,7 @@
         <labelShortAdj>MidasGold-eyed</labelShortAdj>
         <description>Carriers of this gene have Brown eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/MidasGoldIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/MidasGoldIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -588,7 +588,7 @@
         <labelShortAdj>BeesWax-eyed</labelShortAdj>
         <description>Carriers of this gene have Brown eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/BeesWaxIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/BeesWaxIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -603,7 +603,7 @@
         <labelShortAdj>Sunset-eyed</labelShortAdj>
         <description>Carriers of this gene have Brown eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/SunsetIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/SunsetIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -618,7 +618,7 @@
         <labelShortAdj>Teak-eyed</labelShortAdj>
         <description>Carriers of this gene have Brown eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/TeakIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/TeakIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -633,7 +633,7 @@
         <labelShortAdj>Almond-eyed</labelShortAdj>
         <description>Carriers of this gene have Brown eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/AlmondIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/AlmondIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -648,7 +648,7 @@
         <labelShortAdj>DesertSand-eyed</labelShortAdj>
         <description>Carriers of this gene have Brown eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/DesertSandIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/DesertSandIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -663,7 +663,7 @@
         <labelShortAdj>Copper-eyed</labelShortAdj>
         <description>Carriers of this gene have Brown eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/CopperIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/CopperIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -678,7 +678,7 @@
         <labelShortAdj>Brown-eyed</labelShortAdj>
         <description>Carriers of this gene have Brown eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/BrownIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/BrownIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -693,7 +693,7 @@
         <labelShortAdj>Chestnut-eyed</labelShortAdj>
         <description>Carriers of this gene have Brown eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/ChestnutIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/ChestnutIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -708,7 +708,7 @@
         <labelShortAdj>Chocolate-eyed</labelShortAdj>
         <description>Carriers of this gene have Brown eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/ChocolateIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/ChocolateIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -724,7 +724,7 @@
         <labelShortAdj>Kiwi-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/KiwiIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/KiwiIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -739,7 +739,7 @@
         <labelShortAdj>PeaSoup-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/PeaSoupIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/PeaSoupIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -754,7 +754,7 @@
         <labelShortAdj>Sage-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/SageIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/SageIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -769,7 +769,7 @@
         <labelShortAdj>Guacamole-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/GuacamoleIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/GuacamoleIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -784,7 +784,7 @@
         <labelShortAdj>Rainforest-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/RainforestIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/RainforestIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -799,7 +799,7 @@
         <labelShortAdj>OakLeaf-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/OakLeafIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/OakLeafIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -814,7 +814,7 @@
         <labelShortAdj>Jade-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/JadeIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/JadeIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -829,7 +829,7 @@
         <labelShortAdj>Fern-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/FernIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/FernIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -844,7 +844,7 @@
         <labelShortAdj>Evergreen-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/EvergreenIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/EvergreenIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -859,7 +859,7 @@
         <labelShortAdj>Olive-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/OliveIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/OliveIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -874,7 +874,7 @@
         <labelShortAdj>DesertCamo-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/DesertCamoIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/DesertCamoIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -889,7 +889,7 @@
         <labelShortAdj>Taupe-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/TaupeIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/TaupeIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -906,7 +906,7 @@
         <labelShortAdj>Teal-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/TealIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/TealIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -921,7 +921,7 @@
         <labelShortAdj>Denim-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/DenimIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/DenimIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -936,7 +936,7 @@
         <labelShortAdj>CoolMint-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/CoolMintIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/CoolMintIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -951,7 +951,7 @@
         <labelShortAdj>IslandLagoon-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/IslandLagoonIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/IslandLagoonIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -966,7 +966,7 @@
         <labelShortAdj>Bluegill-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/BluegillIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/BluegillIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -981,7 +981,7 @@
         <labelShortAdj>BlueSuede-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/BlueSuedeIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/BlueSuedeIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -996,7 +996,7 @@
         <labelShortAdj>SummerSky-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/SummerSkyIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/SummerSkyIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -1011,7 +1011,7 @@
         <labelShortAdj>TidalPool-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/TidalPoolIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/TidalPoolIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -1026,7 +1026,7 @@
         <labelShortAdj>MauiSurf-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/MauiSurfIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/MauiSurfIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -1041,7 +1041,7 @@
         <labelShortAdj>CoolAzul-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/CoolAzulIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/CoolAzulIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -1056,7 +1056,7 @@
         <labelShortAdj>RegalBlue-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/RegalBlueIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/RegalBlueIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -1071,7 +1071,7 @@
         <labelShortAdj>WildBlueberry-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/WildBlueberryIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/WildBlueberryIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -1086,7 +1086,7 @@
         <labelShortAdj>Cobalt-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/CobaltIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/CobaltIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -1101,7 +1101,7 @@
         <labelShortAdj>Blurple-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/BlurpleIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/BlurpleIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -1116,7 +1116,7 @@
         <labelShortAdj>BlueMarlin-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/BlueMarlinIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/BlueMarlinIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -1131,7 +1131,7 @@
         <labelShortAdj>Gulfstream-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/GulfstreamIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/GulfstreamIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>
@@ -1146,7 +1146,7 @@
         <labelShortAdj>DeepSea-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColours</displayCategory>
-        <iconPath>UI/Icons/Genes/DeepSeaIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Human/DeepSeaIcon</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
         <graphicData>
             <drawScale>0.28</drawScale>

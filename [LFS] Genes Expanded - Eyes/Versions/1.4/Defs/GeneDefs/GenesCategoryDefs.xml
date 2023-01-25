@@ -2,8 +2,15 @@
 <Defs>
     <GeneCategoryDef>
         <defName>EyeColours</defName>
-        <label>Cosmetic - Eye Colour</label>
+        <label>Cosmetic - Human Eye Colour</label>
         <displayPriorityInXenotype>-19071</displayPriorityInXenotype>
+        <displayPriorityInGenepack>-135</displayPriorityInGenepack>
+    </GeneCategoryDef>
+    
+    <GeneCategoryDef>
+        <defName>EyeColoursFeline</defName>
+        <label>Cosmetic - Feline Eye Colour</label>
+        <displayPriorityInXenotype>-19072</displayPriorityInXenotype>
         <displayPriorityInGenepack>-135</displayPriorityInGenepack>
     </GeneCategoryDef>
 </Defs>
