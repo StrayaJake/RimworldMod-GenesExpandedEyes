@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <!-- Yellow -->
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_YellowFin_Feline</defName>
+        <label>Yellow Fin Feline Eyes</label>
+        <labelShortAdj>yellowfin-eyed</labelShortAdj>
+        <description>Carriers of this gene have yellow eyes.</description>
+        <displayCategory>EyeColours</displayCategory>
+        <iconPath>UI/Icons/Genes/YellowfinIcon</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/Feline/Yellowfin_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/Feline/Yellowfin_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+</Defs>
+        
