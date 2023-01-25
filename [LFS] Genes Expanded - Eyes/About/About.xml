@@ -9,6 +9,11 @@
     <packageId>LazyFridayStudio.GenesExpandedEyes</packageId>
     <modDependencies>
         <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
+        </li>
+        <li>
             <packageId>Ludeon.RimWorld</packageId>
             <displayName>Core</displayName>
         </li>
@@ -20,5 +25,6 @@
     <loadAfter>
         <li>Ludeon.RimWorld</li>
         <li>Ludeon.RimWorld.Biotech</li>
+        <li>brrainz.harmony</li>
     </loadAfter>
 </ModMetaData>
