@@ -27,9 +27,6 @@ namespace LFS_GenesExpandedEyes
 
         public static void PostfixGenerator(Pawn pawn, XenotypeDef xenotype, PawnGenerationRequest request)
         {
-            var isBaby = request.AllowedDevelopmentalStages == DevelopmentalStage.Newborn;
-
-            if (isBaby) return;
             var customXeno = pawn.genes.UniqueXenotype;
             
             if (customXeno) return;
