@@ -4,5 +4,6 @@
         <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded</li>
         <li IfModActive="Nals.FacialAnimation">Compatibility/FacialAnimation</li>
         <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
+        <li IfModActive="filox.xenotype">Compatibility/FiloxXenoType</li>
     </v1.4>
 </loadFolders>
