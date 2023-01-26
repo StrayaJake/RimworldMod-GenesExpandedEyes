@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Filox"]/genes/li[text()="Eyes_Gray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Filox"]/geneGroups
+                </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_White_Reptile>1</Eyes_White_Reptile>
+                            <Eyes_SilverShiner_Reptile>1</Eyes_SilverShiner_Reptile>
+                            <Eyes_GhostGrey_Reptile>1</Eyes_GhostGrey_Reptile>
+                            <Eyes_SilverSmoke_Reptile>1</Eyes_SilverSmoke_Reptile>
+                            <Eyes_TinCan_Reptile>1</Eyes_TinCan_Reptile>
+                            <Eyes_SmokeScreen_Reptile>1</Eyes_SmokeScreen_Reptile>
+                            <Eyes_ForgedSteel_Reptile>1</Eyes_ForgedSteel_Reptile>
+                            <Eyes_IronOre_Reptile>1</Eyes_IronOre_Reptile>
+                            <Eyes_StormCloud_Reptile>1</Eyes_StormCloud_Reptile>
+                            <Eyes_Black_Reptile>1</Eyes_Black_Reptile>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

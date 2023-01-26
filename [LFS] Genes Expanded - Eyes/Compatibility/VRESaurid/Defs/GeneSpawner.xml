@@ -3,39 +3,6 @@
     <LFS_GenesExpandedEyes.GeneGroups>
         <defName>VRESaurids_Saurid</defName>
         <geneGroups>
-            <li>
-                <Endogenes>
-                    <Eyes_Kiwi_Reptile>1</Eyes_Kiwi_Reptile>
-                    <Eyes_PeaSoup_Reptile>1</Eyes_PeaSoup_Reptile>
-                    <Eyes_Sage_Reptile>1</Eyes_Sage_Reptile>
-                    <Eyes_Guacamole_Reptile>1</Eyes_Guacamole_Reptile>
-                    <Eyes_Rainforest_Reptile>1</Eyes_Rainforest_Reptile>
-                    <Eyes_OakLeaf_Reptile>1</Eyes_OakLeaf_Reptile>
-                    <Eyes_Jade_Reptile>1</Eyes_Jade_Reptile>
-                    <Eyes_Fern_Reptile>1</Eyes_Fern_Reptile>
-                    <Eyes_Evergreen_Reptile>1</Eyes_Evergreen_Reptile>
-                    <Eyes_Olive_Reptile>1</Eyes_Olive_Reptile>
-                    <Eyes_DesertCamo_Reptile>1</Eyes_DesertCamo_Reptile>
-                    <Eyes_Taupe_Reptile>1</Eyes_Taupe_Reptile>
-                    <Eyes_Teal_Reptile>1</Eyes_Teal_Reptile>
-                    <Eyes_Denim_Reptile>1</Eyes_Denim_Reptile>
-                    <Eyes_CoolMint_Reptile>1</Eyes_CoolMint_Reptile>
-                    <Eyes_IslandLagoon_Reptile>1</Eyes_IslandLagoon_Reptile>
-                    <Eyes_Bluegill_Reptile>1</Eyes_Bluegill_Reptile>
-                    <Eyes_BlueSuede_Reptile>1</Eyes_BlueSuede_Reptile>
-                    <Eyes_SummerSky_Reptile>1</Eyes_SummerSky_Reptile>
-                    <Eyes_TidalPool_Reptile>1</Eyes_TidalPool_Reptile>
-                    <Eyes_MauiSurf_Reptile>1</Eyes_MauiSurf_Reptile>
-                    <Eyes_CoolAzul_Reptile>1</Eyes_CoolAzul_Reptile>
-                    <Eyes_RegalBlue_Reptile>1</Eyes_RegalBlue_Reptile>
-                    <Eyes_WildBlueberry_Reptile>1</Eyes_WildBlueberry_Reptile>
-                    <Eyes_Cobalt_Reptile>1</Eyes_Cobalt_Reptile>
-                    <Eyes_Blurple_Reptile>1</Eyes_Blurple_Reptile>
-                    <Eyes_BlueMarlin_Reptile>1</Eyes_BlueMarlin_Reptile>
-                    <Eyes_Gulfstream_Reptile>1</Eyes_Gulfstream_Reptile>
-                    <Eyes_DeepSea_Reptile>1</Eyes_DeepSea_Reptile>
-                </Endogenes>
-            </li>
         </geneGroups>
     </LFS_GenesExpandedEyes.GeneGroups>
 </Defs>
