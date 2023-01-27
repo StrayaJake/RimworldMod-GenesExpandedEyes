@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Xeno_Zearot"]/geneGroups
+                </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_BurntOrange_Reptile>1</Eyes_BurntOrange_Reptile>
+                            <Eyes_Clay_Reptile>1</Eyes_Clay_Reptile>
+                            <Eyes_Tangerine_Reptile>1</Eyes_Tangerine_Reptile>
+                            <Eyes_PaleLavender_Reptile>1</Eyes_PaleLavender_Reptile>
+                            <Eyes_Bubblegum_Reptile>1</Eyes_Bubblegum_Reptile>
+                            <Eyes_Fuchsia_Reptile>1</Eyes_Fuchsia_Reptile>
+                            <Eyes_Rose_Reptile>1</Eyes_Rose_Reptile>
+                            <Eyes_Raspberry_Reptile>1</Eyes_Raspberry_Reptile>
+                            <Eyes_Redfish_Reptile>1</Eyes_Redfish_Reptile>
+                            <Eyes_FireRed_Reptile>1</Eyes_FireRed_Reptile>
+                            <Eyes_MarsRed_Reptile>1</Eyes_MarsRed_Reptile>
+                            <Eyes_Cranberry_Reptile>1</Eyes_Cranberry_Reptile>
+                            <Eyes_Burgundy_Reptile>1</Eyes_Burgundy_Reptile>
+                            <Eyes_Merlot_Reptile>1</Eyes_Merlot_Reptile>
+                            <Eyes_Rattan_Reptile>1</Eyes_Rattan_Reptile>
+                            <Eyes_MidasGold_Reptile>1</Eyes_MidasGold_Reptile>
+                            <Eyes_BeesWax_Reptile>1</Eyes_BeesWax_Reptile>
+                            <Eyes_Sunset_Reptile>1</Eyes_Sunset_Reptile>
+                            <Eyes_Teak_Reptile>1</Eyes_Teak_Reptile>
+                            <Eyes_Almond_Reptile>1</Eyes_Almond_Reptile>
+                            <Eyes_DesertSand_Reptile>1</Eyes_DesertSand_Reptile>
+                            <Eyes_Copper_Reptile>1</Eyes_Copper_Reptile>
+                            <Eyes_Brown_Reptile>1</Eyes_Brown_Reptile>
+                            <Eyes_Chestnut_Reptile>1</Eyes_Chestnut_Reptile>
+                            <Eyes_Chocolate_Reptile>1</Eyes_Chocolate_Reptile>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Xeno_Zearot"]/genes/li[text()="Eyes_Red"]</xpath>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

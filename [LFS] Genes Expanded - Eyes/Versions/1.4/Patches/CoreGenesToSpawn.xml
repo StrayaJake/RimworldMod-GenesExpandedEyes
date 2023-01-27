@@ -4,7 +4,7 @@
         <operations>
             <li Class="PatchOperationAdd">
                 <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Baseliner"]/geneGroups
-                </xpath>  <!-- Please do not overwrite groups, instead add into them for the best mod compatibility-->
+                </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
@@ -90,7 +90,7 @@
 
             <li Class="PatchOperationAdd">
                 <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Dirtmole"]/geneGroups
-                </xpath>  <!-- Please do not overwrite groups, instead add into them for the best mod compatibility-->
+                </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
@@ -111,7 +111,7 @@
 
             <li Class="PatchOperationAdd">
                 <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Genie"]/geneGroups
-                </xpath>  <!-- Please do not overwrite groups, instead add into them for the best mod compatibility-->
+                </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
@@ -197,7 +197,7 @@
 
             <li Class="PatchOperationAdd">
                 <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Hussar"]/geneGroups
-                </xpath>  <!-- Please do not overwrite groups, instead add into them for the best mod compatibility-->
+                </xpath> 
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
@@ -218,7 +218,7 @@
 
             <li Class="PatchOperationAdd">
                 <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Neanderthal"]/geneGroups
-                </xpath>  <!-- Please do not overwrite groups, instead add into them for the best mod compatibility-->
+                </xpath> 
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
@@ -304,7 +304,7 @@
 
             <li Class="PatchOperationAdd">
                 <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Pigskin"]/geneGroups
-                </xpath>  <!-- Please do not overwrite groups, instead add into them for the best mod compatibility-->
+                </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
@@ -390,7 +390,7 @@
 
             <li Class="PatchOperationAdd">
                 <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Impid"]/geneGroups
-                </xpath>  <!-- Please do not overwrite groups, instead add into them for the best mod compatibility-->
+                </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
@@ -426,7 +426,7 @@
 
             <li Class="PatchOperationAdd">
                 <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Waster"]/geneGroups
-                </xpath>  <!-- Please do not overwrite groups, instead add into them for the best mod compatibility-->
+                </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
@@ -447,7 +447,7 @@
 
             <li Class="PatchOperationAdd">
                 <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Yttakin"]/geneGroups
-                </xpath>  <!-- Please do not overwrite groups, instead add into them for the best mod compatibility-->
+                </xpath>
                 <value>
                     <li>
                         <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
@@ -533,10 +533,10 @@
 
             <li Class="PatchOperationAdd">
                 <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Highmate"]/geneGroups
-                </xpath>  <!-- Please do not overwrite groups, instead add into them for the best mod compatibility-->
+                </xpath>
                 <value>
                     <li>
-                        <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
+                        <Endogenes>
                             <Eyes_Kiwi_Reptile>1</Eyes_Kiwi_Reptile>
                             <Eyes_PeaSoup_Reptile>1</Eyes_PeaSoup_Reptile>
                             <Eyes_Sage_Reptile>1</Eyes_Sage_Reptile>
@@ -569,6 +569,46 @@
                         </Endogenes>
                     </li>
                 </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Sanguophage"]/geneGroups
+                </xpath>
+                <value>
+                    <li>
+                        <Endogenes> <!-- Going over 1 means one of these genes will ALWAYS SPAWN, under 1 will mean there is a chance that it will not gain a gene from this list-->
+                            <Eyes_BurntOrange>1</Eyes_BurntOrange>
+                            <Eyes_Clay>1</Eyes_Clay>
+                            <Eyes_Tangerine>1</Eyes_Tangerine>
+                            <Eyes_PaleLavender>1</Eyes_PaleLavender>
+                            <Eyes_Bubblegum>1</Eyes_Bubblegum>
+                            <Eyes_Fuchsia>1</Eyes_Fuchsia>
+                            <Eyes_Rose>1</Eyes_Rose>
+                            <Eyes_Raspberry>1</Eyes_Raspberry>
+                            <Eyes_Redfish>1</Eyes_Redfish>
+                            <Eyes_FireRed>1</Eyes_FireRed>
+                            <Eyes_MarsRed>1</Eyes_MarsRed>
+                            <Eyes_Cranberry>1</Eyes_Cranberry>
+                            <Eyes_Burgundy>1</Eyes_Burgundy>
+                            <Eyes_Merlot>1</Eyes_Merlot>
+                            <Eyes_Rattan>1</Eyes_Rattan>
+                            <Eyes_MidasGold>1</Eyes_MidasGold>
+                            <Eyes_BeesWax>1</Eyes_BeesWax>
+                            <Eyes_Sunset>1</Eyes_Sunset>
+                            <Eyes_Teak>1</Eyes_Teak>
+                            <Eyes_Almond>1</Eyes_Almond>
+                            <Eyes_DesertSand>1</Eyes_DesertSand>
+                            <Eyes_Copper>1</Eyes_Copper>
+                            <Eyes_Brown>1</Eyes_Brown>
+                            <Eyes_Chestnut>1</Eyes_Chestnut>
+                            <Eyes_Chocolate>1</Eyes_Chocolate>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/XenotypeDef[defName="Hussar"]/genes/li[text()="Eyes_Red"]</xpath>
             </li>
         </operations>
     </Operation>

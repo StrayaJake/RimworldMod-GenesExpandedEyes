@@ -2,6 +2,18 @@
 <Patch>
     <Operation Class="PatchOperationSequence">
         <operations>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/XenotypeDef[defName="Xeno_Trugnoth"]/genes/li[text()="Eyes_Gray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/XenotypeDef[defName="Xeno_Zukran"]/genes/li[text()="Eyes_Gray"]</xpath>
+            </li>
+
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/XenotypeDef[defName="Xeno_Ceds"]/genes/li[text()="Eyes_Red"]</xpath>
+            </li>
+            
             <li Class="PatchOperationAdd">
                 <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Xeno_Dhucoih"]/geneGroups
                 </xpath>
@@ -252,17 +264,7 @@
                 </value>
             </li>
 
-            <li Class="PatchOperationRemove">
-                <xpath>/Defs/XenotypeDef[defName="Xeno_Trugnoth"]/genes/li[text()="Eyes_Gray"]</xpath>
-            </li>
 
-            <li Class="PatchOperationRemove">
-                <xpath>/Defs/XenotypeDef[defName="Xeno_Zukran"]/genes/li[text()="Eyes_Gray"]</xpath>
-            </li>
-
-            <li Class="PatchOperationRemove">
-                <xpath>/Defs/XenotypeDef[defName="Xeno_Ceds"]/genes/li[text()="Eyes_Red"]</xpath>
-            </li>
         </operations>
     </Operation>
 </Patch>
