@@ -28,14 +28,18 @@ namespace LFS_GenesExpandedEyes
         public static void PostfixGenerator(Pawn pawn, XenotypeDef xenotype, PawnGenerationRequest request)
         {
             var customXeno = pawn.genes.UniqueXenotype;
-            
+            var isBaby = request.AllowedDevelopmentalStages == DevelopmentalStage.Newborn;
+
+            if (isBaby) return;
             if (customXeno) return;
+            
             GeneGroups possibleEndotypes =
                 DefDatabase<GeneGroups>.AllDefs.FirstOrDefault((GeneGroups x) =>
                     string.Equals(x.defName, pawn.genes.Xenotype.defName,
                         StringComparison.CurrentCultureIgnoreCase));
 
             var doesHaveEndoType = possibleEndotypes != null;
+            
             if (!doesHaveEndoType) return;
             
             var rnd = new Random();
