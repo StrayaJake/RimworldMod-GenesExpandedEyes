@@ -6,5 +6,6 @@
         <li IfModActive="Nals.FacialAnimation">Compatibility/FacialAnimation</li>
         <li IfModActive="filox.xenotype">Compatibility/FiloxXenoType/</li>
         <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
+        <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
     </v1.4>
 </loadFolders>
