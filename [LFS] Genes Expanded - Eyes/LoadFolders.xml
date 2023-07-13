@@ -7,5 +7,6 @@
         <li IfModActive="filox.xenotype">Compatibility/FiloxXenoType/</li>
         <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
         <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
+        <li IfModActive="Turnovus.Biotech.IntegratedXenotypes">Compatibility/IntegratedXenos</li>
     </v1.4>
 </loadFolders>
