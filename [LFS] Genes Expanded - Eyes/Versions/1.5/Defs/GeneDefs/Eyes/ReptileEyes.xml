@@ -937,8 +937,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Raspberry_Reptile</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Raspberry_Reptile</texPathFemale>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Raspberry_Reptile</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1804,8 +1803,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/MidasGold_Reptile</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/MidasGold_Reptile</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/MidasGold_Reptile</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3339,8 +3337,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/RegalBlue_Reptile</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/RegalBlue_Reptile</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/RegalBlue_Reptile</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>

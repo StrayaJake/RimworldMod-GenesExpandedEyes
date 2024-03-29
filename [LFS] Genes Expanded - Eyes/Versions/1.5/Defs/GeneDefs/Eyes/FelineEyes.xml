@@ -11,10 +11,8 @@
         <displayOrderInCategory>1</displayOrderInCategory>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline
-                </texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</texPathFemale>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline </texPath>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -29,8 +27,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -61,10 +58,8 @@
 
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline
-                </texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</texPathFemale>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline </texPath>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -79,8 +74,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -111,8 +105,7 @@
 
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TaxiCab_Feline
-                </texPath>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TaxiCab_Feline </texPath>
                 <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TaxiCab_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
@@ -160,8 +153,7 @@
         <displayOrderInCategory>1</displayOrderInCategory>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline
-                </texPath>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline </texPath>
                 <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
@@ -210,8 +202,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BurntOrange_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BurntOrange_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BurntOrange_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -226,8 +217,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BurntOrange_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BurntOrange_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BurntOrange_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -307,8 +297,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Tangerine_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Tangerine_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Tangerine_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -323,8 +312,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Tangerine_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Tangerine_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Tangerine_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -359,8 +347,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PaleLavender_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PaleLavender_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PaleLavender_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -375,8 +362,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PaleLavender_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PaleLavender_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PaleLavender_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -743,8 +729,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PurpleHeart_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PurpleHeart_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PurpleHeart_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -759,8 +744,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PurpleHeart_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PurpleHeart_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PurpleHeart_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -795,8 +779,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bubblegum_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bubblegum_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bubblegum_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -811,8 +794,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bubblegum_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bubblegum_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bubblegum_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -940,8 +922,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Raspberry_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Raspberry_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Raspberry_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -956,8 +937,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Raspberry_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Raspberry_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Raspberry_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1133,8 +1113,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cranberry_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cranberry_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cranberry_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1149,8 +1128,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cranberry_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cranberry_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cranberry_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1329,8 +1307,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverShiner_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverShiner_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverShiner_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1345,8 +1322,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverShiner_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverShiner_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverShiner_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1379,8 +1355,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GhostGrey_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GhostGrey_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GhostGrey_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1395,8 +1370,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GhostGrey_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GhostGrey_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GhostGrey_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1429,8 +1403,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverSmoke_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverSmoke_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverSmoke_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1445,8 +1418,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverSmoke_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverSmoke_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverSmoke_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1527,8 +1499,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SmokeScreen_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SmokeScreen_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SmokeScreen_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1543,8 +1514,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SmokeScreen_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SmokeScreen_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SmokeScreen_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1577,8 +1547,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/ForgedSteel_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/ForgedSteel_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/ForgedSteel_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1593,8 +1562,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/ForgedSteel_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/ForgedSteel_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/ForgedSteel_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1674,8 +1642,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/StormCloud_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/StormCloud_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/StormCloud_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1690,8 +1657,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/StormCloud_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/StormCloud_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/StormCloud_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1822,8 +1788,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MidasGold_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MidasGold_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MidasGold_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -1838,8 +1803,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MidasGold_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MidasGold_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MidasGold_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -2064,8 +2028,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertSand_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertSand_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertSand_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -2080,8 +2043,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertSand_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertSand_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertSand_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -2258,8 +2220,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chocolate_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chocolate_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chocolate_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -2274,8 +2235,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chocolate_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chocolate_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chocolate_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -2453,8 +2413,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Guacamole_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Guacamole_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Guacamole_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -2469,8 +2428,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Guacamole_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Guacamole_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Guacamole_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -2503,8 +2461,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rainforest_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rainforest_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rainforest_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -2519,8 +2476,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rainforest_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rainforest_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rainforest_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -2696,8 +2652,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Evergreen_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Evergreen_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Evergreen_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -2712,8 +2667,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Evergreen_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Evergreen_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Evergreen_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -2793,8 +2747,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertCamo_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertCamo_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertCamo_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -2809,8 +2762,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertCamo_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertCamo_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertCamo_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3037,8 +2989,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IslandLagoon_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IslandLagoon_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IslandLagoon_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3053,8 +3004,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IslandLagoon_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IslandLagoon_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IslandLagoon_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3134,8 +3084,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueSuede_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueSuede_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueSuede_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3150,8 +3099,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueSuede_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueSuede_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueSuede_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3184,8 +3132,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SummerSky_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SummerSky_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SummerSky_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3200,8 +3147,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SummerSky_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SummerSky_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SummerSky_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3234,8 +3180,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TidalPool_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TidalPool_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TidalPool_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3250,8 +3195,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TidalPool_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TidalPool_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TidalPool_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3378,8 +3322,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/RegalBlue_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/RegalBlue_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/RegalBlue_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3394,8 +3337,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/RegalBlue_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/RegalBlue_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/RegalBlue_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3428,8 +3370,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/WildBlueberry_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/WildBlueberry_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/WildBlueberry_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3444,8 +3385,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/WildBlueberry_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/WildBlueberry_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/WildBlueberry_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3573,8 +3513,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueMarlin_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueMarlin_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueMarlin_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3589,8 +3528,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueMarlin_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueMarlin_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueMarlin_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3623,8 +3561,7 @@
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Gulfstream_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Gulfstream_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Gulfstream_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3639,8 +3576,7 @@
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Gulfstream_Feline</texPath>
-                <texPathFemale>
-                    Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Gulfstream_Feline</texPathFemale>
+                <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Gulfstream_Feline</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
