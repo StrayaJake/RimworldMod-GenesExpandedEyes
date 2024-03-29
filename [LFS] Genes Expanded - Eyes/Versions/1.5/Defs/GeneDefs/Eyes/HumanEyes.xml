@@ -11,7 +11,7 @@
         <displayOrderInCategory>1</displayOrderInCategory>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Yellowfin </texPath>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Yellowfin</texPath>
                 <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/Yellowfin</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
@@ -58,7 +58,7 @@
 
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/BananaSplit </texPath>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/BananaSplit</texPath>
                 <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/BananaSplit</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
@@ -105,7 +105,7 @@
 
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/TaxiCab </texPath>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/TaxiCab</texPath>
                 <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/TaxiCab</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
@@ -153,7 +153,7 @@
         <displayOrderInCategory>1</displayOrderInCategory>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/GoldFish </texPath>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/GoldFish</texPath>
                 <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/GoldFish</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>

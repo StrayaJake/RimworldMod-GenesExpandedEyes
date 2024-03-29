@@ -11,7 +11,7 @@
         <displayOrderInCategory>1</displayOrderInCategory>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline </texPath>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</texPath>
                 <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
@@ -58,7 +58,7 @@
 
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline </texPath>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</texPath>
                 <texPathFemale> Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
@@ -105,7 +105,7 @@
 
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TaxiCab_Feline </texPath>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TaxiCab_Feline</texPath>
                 <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TaxiCab_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
@@ -153,7 +153,7 @@
         <displayOrderInCategory>1</displayOrderInCategory>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline </texPath>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline</texPath>
                 <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
