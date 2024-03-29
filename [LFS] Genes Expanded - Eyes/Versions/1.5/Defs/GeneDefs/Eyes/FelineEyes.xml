@@ -1,0 +1,1158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <!-- Yellow -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_YellowFin_Feline</defName>
+        <label>Feline Yellow Fin Eyes</label>
+        <labelShortAdj>yellowfin-eyed</labelShortAdj>
+        <description>Carriers of this gene have yellow eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/YellowfinIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_BananaSplit_Feline</defName>
+        <label>Feline Banana Split Eyes</label>
+        <labelShortAdj>BananaSplit-eyed</labelShortAdj>
+        <description>Carriers of this gene have yellow eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BananaSplitIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_TaxiCab_Feline</defName>
+        <label>Feline Taxi Cab Eyes</label>
+        <labelShortAdj>TaxiCab-eyed</labelShortAdj>
+        <description>Carriers of this gene have yellow eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TaxiCabIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TaxiCab_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TaxiCab_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <!-- Orange -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_GoldFish_Feline</defName>
+        <label>Feline Gold Fish Eyes</label>
+        <labelShortAdj>Goldfish-eyed</labelShortAdj>
+        <description>Carriers of this gene have Orange eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/GoldFishIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_BurntOrange_Feline</defName>
+        <label>Feline Burnt Orange Eyes</label>
+        <labelShortAdj>BurntOrange-eyed</labelShortAdj>
+        <description>Carriers of this gene have Orange eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BurntOrangeIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BurntOrange_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Clay_Feline</defName>
+        <label>Feline Clay Eyes</label>
+        <labelShortAdj>Clay-eyed</labelShortAdj>
+        <description>Carriers of this gene have Orange eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/ClayIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Clay_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Clay_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Tangerine_Feline</defName>
+        <label>Feline Tangerine Eyes</label>
+        <labelShortAdj>Tangerine-eyed</labelShortAdj>
+        <description>Carriers of this gene have Orange eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TangerineIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Tangerine_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Tangerine_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <!-- Purple -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_PaleLavender_Feline</defName>
+        <label>Feline Pale Lavender Eyes</label>
+        <labelShortAdj>PaleLavender-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/PaleLavenderIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PaleLavender_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PaleLavender_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Lilac_Feline</defName>
+        <label>Feline Lilac Eyes</label>
+        <labelShortAdj>Lilac-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/LilacIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Lilac_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Lilac_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Orchid_Feline</defName>
+        <label>Feline Orchid Eyes</label>
+        <labelShortAdj>Orchid-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/OrchidIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Orchid_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Orchid_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Plum_Feline</defName>
+        <label>Feline Plum Eyes</label>
+        <labelShortAdj>Plum-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/PlumIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Plum_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Plum_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Violet_Feline</defName>
+        <label>Feline Violet Eyes</label>
+        <labelShortAdj>Violet-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/VioletIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Violet_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Violet_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Grape_Feline</defName>
+        <label>Feline Grape Eyes</label>
+        <labelShortAdj>Grape-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/GrapeIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Grape_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Grape_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Purple_Feline</defName>
+        <label>Feline Purple Eyes</label>
+        <labelShortAdj>Purple-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/PurpleIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Purple_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Purple_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Amethyst_Feline</defName>
+        <label>Feline Amethyst Eyes</label>
+        <labelShortAdj>Amethyst-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/AmethystIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Amethyst_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Amethyst_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_PurpleHeart_Feline</defName>
+        <label>Feline Purple Heart Eyes</label>
+        <labelShortAdj>PurpleHeart-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/PurpleHeartIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PurpleHeart_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PurpleHeart_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <!-- Red -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Bubblegum_Feline</defName>
+        <label>Feline Bubblegum Eyes</label>
+        <labelShortAdj>Bubblegum-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BubblegumIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bubblegum_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bubblegum_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Fuchsia_Feline</defName>
+        <label>Feline Fuchsia Eyes</label>
+        <labelShortAdj>Fuchsia-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/FuchsiaIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Fuchsia_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Fuchsia_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Rose_Feline</defName>
+        <label>Feline Rose Eyes</label>
+        <labelShortAdj>Rose-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/RoseIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rose_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rose_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Raspberry_Feline</defName>
+        <label>Feline Raspberry Eyes</label>
+        <labelShortAdj>Raspberry-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/RaspberryIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Raspberry_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Raspberry_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Redfish_Feline</defName>
+        <label>Feline Redfish Eyes</label>
+        <labelShortAdj>Redfish-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/RedfishIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Redfish_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Redfish_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_FireRed_Feline</defName>
+        <label>Feline FireRed Eyes</label>
+        <labelShortAdj>FireRed-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/FireRedIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/FireRed_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/FireRed_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_MarsRed_Feline</defName>
+        <label>Feline Mars Red Eyes</label>
+        <labelShortAdj>MarsRed-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/MarsRedIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MarsRed_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MarsRed_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Cranberry_Feline</defName>
+        <label>Feline Cranberry Eyes</label>
+        <labelShortAdj>Cranberry-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/CranberryIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cranberry_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cranberry_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Burgundy_Feline</defName>
+        <label>Feline Burgundy Eyes</label>
+        <labelShortAdj>Burgundy-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BurgundyIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Burgundy_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Burgundy_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Merlot_Feline</defName>
+        <label>Feline Merlot Eyes</label>
+        <labelShortAdj>Bubblegum-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/MerlotIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Merlot_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Merlot_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <!-- Monochrome -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_White_Feline</defName>
+        <label>Feline White Eyes</label>
+        <labelShortAdj>White-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/WhiteIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/White_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/White_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_SilverShiner_Feline</defName>
+        <label>Feline Silver Shiner Eyes</label>
+        <labelShortAdj>SilverShiner-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/SilverShinerIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverShiner_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverShiner_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_GhostGrey_Feline</defName>
+        <label>Feline Ghost Grey Eyes</label>
+        <labelShortAdj>GhostGrey-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/GhostGreyIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GhostGrey_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GhostGrey_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_SilverSmoke_Feline</defName>
+        <label>Feline Silver Smoke Eyes</label>
+        <labelShortAdj>SilverSmoke-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/SilverSmokeIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverSmoke_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverSmoke_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_TinCan_Feline</defName>
+        <label>Feline Tin Can Eyes</label>
+        <labelShortAdj>TinCan-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TinCanIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TinCan_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TinCan_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_SmokeScreen_Feline</defName>
+        <label>Feline Smoke Screen Eyes</label>
+        <labelShortAdj>SmokeScreen-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/SmokeScreenIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SmokeScreen_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SmokeScreen_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_ForgedSteel_Feline</defName>
+        <label>Feline Forged Steel Eyes</label>
+        <labelShortAdj>ForgedSteel-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/ForgedSteelIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/ForgedSteel_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/ForgedSteel_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_IronOre_Feline</defName>
+        <label>Feline Iron Ore Eyes</label>
+        <labelShortAdj>IronOre-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/IronOreIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IronOre_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IronOre_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_StormCloud_Feline</defName>
+        <label>Feline Storm Cloud Eyes</label>
+        <labelShortAdj>StormCloud-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/StormCloudIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/StormCloud_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/StormCloud_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Black_Feline</defName>
+        <label>Feline Black Eyes</label>
+        <labelShortAdj>Black-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BlackIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Black_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Black_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <!-- Brown -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Rattan_Feline</defName>
+        <label>Feline Rattan Eyes</label>
+        <labelShortAdj>Rattan-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/RattanIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rattan_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rattan_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_MidasGold_Feline</defName>
+        <label>Feline Midas Gold Eyes</label>
+        <labelShortAdj>MidasGold-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/MidasGoldIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MidasGold_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MidasGold_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_BeesWax_Feline</defName>
+        <label>Feline Bees Wax Eyes</label>
+        <labelShortAdj>BeesWax-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BeesWaxIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BeesWax_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BeesWax_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Sunset_Feline</defName>
+        <label>Feline Sunset Eyes</label>
+        <labelShortAdj>Sunset-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/SunsetIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Sunset_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Sunset_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Teak_Feline</defName>
+        <label>Feline Teak Eyes</label>
+        <labelShortAdj>Teak-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TeakIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Teak_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Teak_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Almond_Feline</defName>
+        <label>Feline Almond Eyes</label>
+        <labelShortAdj>Almond-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/AlmondIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Almond_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Almond_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_DesertSand_Feline</defName>
+        <label>Feline Desert Sand Eyes</label>
+        <labelShortAdj>DesertSand-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/DesertSandIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertSand_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertSand_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Copper_Feline</defName>
+        <label>Feline Copper Eyes</label>
+        <labelShortAdj>Copper-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/CopperIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Copper_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Brown_Feline</defName>
+        <label>Feline Brown Eyes</label>
+        <labelShortAdj>Brown-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BrownIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Brown_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Brown_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Chestnut_Feline</defName>
+        <label>Feline Chestnut Eyes</label>
+        <labelShortAdj>Chestnut-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/ChestnutIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chestnut_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chestnut_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Chocolate_Feline</defName>
+        <label>Feline Chocolate Eyes</label>
+        <labelShortAdj>Chocolate-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/ChocolateIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chocolate_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chocolate_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <!-- Green -->
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Kiwi_Feline</defName>
+        <label>Feline Kiwi Eyes</label>
+        <labelShortAdj>Kiwi-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/KiwiIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Kiwi_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Kiwi_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_PeaSoup_Feline</defName>
+        <label>Feline Pea Soup Eyes</label>
+        <labelShortAdj>PeaSoup-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/PeaSoupIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PeaSoup_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PeaSoup_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Sage_Feline</defName>
+        <label>Feline Sage Eyes</label>
+        <labelShortAdj>Sage-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/SageIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Sage_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Sage_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Guacamole_Feline</defName>
+        <label>Feline Guacamole Eyes</label>
+        <labelShortAdj>Guacamole-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/GuacamoleIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Guacamole_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Guacamole_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Rainforest_Feline</defName>
+        <label>Feline Rainforest Eyes</label>
+        <labelShortAdj>Rainforest-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/RainforestIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rainforest_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rainforest_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_OakLeaf_Feline</defName>
+        <label>Feline Oak Leaf Eyes</label>
+        <labelShortAdj>OakLeaf-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/OakLeafIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/OakLeaf_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/OakLeaf_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Jade_Feline</defName>
+        <label>Feline Jade Eyes</label>
+        <labelShortAdj>Jade-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/JadeIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Jade_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Jade_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Fern_Feline</defName>
+        <label>Feline Fern Eyes</label>
+        <labelShortAdj>Fern-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/FernIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Fern_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Fern_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Evergreen_Feline</defName>
+        <label>Feline Evergreen Eyes</label>
+        <labelShortAdj>Evergreen-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/EvergreenIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Evergreen_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Evergreen_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Olive_Feline</defName>
+        <label>Feline Olive Eyes</label>
+        <labelShortAdj>Olive-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/OliveIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Olive_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Olive_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_DesertCamo_Feline</defName>
+        <label>Feline Desert Camo Eyes</label>
+        <labelShortAdj>DesertCamo-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/DesertCamoIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertCamo_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertCamo_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Taupe_Feline</defName>
+        <label>Feline Taupe Eyes</label>
+        <labelShortAdj>Taupe-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TaupeIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Taupe_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Taupe_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <!-- Blue -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Teal_Feline</defName>
+        <label>Feline Teal Eyes</label>
+        <labelShortAdj>Teal-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TealIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Teal_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Teal_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Denim_Feline</defName>
+        <label>Feline Denim Eyes</label>
+        <labelShortAdj>Denim-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/DenimIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Denim_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Denim_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_CoolMint_Feline</defName>
+        <label>Feline Cool Mint Eyes</label>
+        <labelShortAdj>CoolMint-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/CoolMintIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/CoolMint_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/CoolMint_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_IslandLagoon_Feline</defName>
+        <label>Feline Island Lagoon Eyes</label>
+        <labelShortAdj>IslandLagoon-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/IslandLagoonIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IslandLagoon_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IslandLagoon_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Bluegill_Feline</defName>
+        <label>Feline Bluegill Eyes</label>
+        <labelShortAdj>Bluegill-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BluegillIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bluegill_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bluegill_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_BlueSuede_Feline</defName>
+        <label>Feline Blue Suede Eyes</label>
+        <labelShortAdj>BlueSuede-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BlueSuedeIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueSuede_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueSuede_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_SummerSky_Feline</defName>
+        <label>Feline Summer Sky Eyes</label>
+        <labelShortAdj>SummerSky-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/SummerSkyIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SummerSky_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SummerSky_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_TidalPool_Feline</defName>
+        <label>Feline Tidal Pool Eyes</label>
+        <labelShortAdj>TidalPool-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TidalPoolIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TidalPool_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TidalPool_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_MauiSurf_Feline</defName>
+        <label>Feline Maui Surf Eyes</label>
+        <labelShortAdj>MauiSurf-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/MauiSurfIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MauiSurf_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MauiSurf_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_CoolAzul_Feline</defName>
+        <label>Feline Cool Azul Eyes</label>
+        <labelShortAdj>CoolAzul-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/CoolAzulIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/CoolAzul_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/CoolAzul_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_RegalBlue_Feline</defName>
+        <label>Feline Regal Blue Eyes</label>
+        <labelShortAdj>RegalBlue-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/RegalBlueIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/RegalBlue_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/RegalBlue_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_WildBlueberry_Feline</defName>
+        <label>Feline Wild Blueberry Eyes</label>
+        <labelShortAdj>WildBlueberry-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/WildBlueberryIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/WildBlueberry_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/WildBlueberry_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Cobalt_Feline</defName>
+        <label>Feline Cobalt Eyes</label>
+        <labelShortAdj>Cobalt-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/CobaltIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cobalt_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cobalt_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Blurple_Feline</defName>
+        <label>Feline Blurple Eyes</label>
+        <labelShortAdj>Blurple-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BlurpleIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Blurple_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Blurple_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_BlueMarlin_Feline</defName>
+        <label>Feline Blue Marlin Eyes</label>
+        <labelShortAdj>BlueMarlin-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BlueMarlinIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueMarlin_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueMarlin_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Gulfstream_Feline</defName>
+        <label>Feline Gulf stream Eyes</label>
+        <labelShortAdj>Gulfstream-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/GulfstreamIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Gulfstream_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Gulfstream_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_DeepSea_Feline</defName>
+        <label>Feline Deep Sea Eyes</label>
+        <labelShortAdj>DeepSea-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/DeepSeaIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <drawScale>0.28</drawScale>
+            <graphicPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DeepSea_Feline</graphicPath>
+            <graphicPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DeepSea_Feline</graphicPathFemale>
+        </graphicData>
+    </GeneDef>
+</Defs>
+        
