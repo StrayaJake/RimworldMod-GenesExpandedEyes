@@ -690,7 +690,7 @@
         <labelShortAdj>Amethyst-eyed</labelShortAdj>
         <description>Carriers of this gene have Purple eyes.</description>
         <displayCategory>EyeColoursFeline</displayCategory>
-        <iconPath>UI/Icons/Genes/Feline/AmethystIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Feline/AmethystIcon_Feline</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
 
         <renderNodeProperties>
@@ -737,7 +737,7 @@
         <labelShortAdj>PurpleHeart-eyed</labelShortAdj>
         <description>Carriers of this gene have Purple eyes.</description>
         <displayCategory>EyeColoursFeline</displayCategory>
-        <iconPath>UI/Icons/Genes/Feline/PurpleHeartIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Feline/PurpleHeartIcon_Feline</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
 
         <renderNodeProperties>
@@ -789,7 +789,7 @@
         <labelShortAdj>Bubblegum-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColoursFeline</displayCategory>
-        <iconPath>UI/Icons/Genes/Feline/BubblegumIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Feline/BubblegumIcon_Feline</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
 
         <renderNodeProperties>
@@ -839,7 +839,7 @@
         <labelShortAdj>Fuchsia-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColoursFeline</displayCategory>
-        <iconPath>UI/Icons/Genes/Feline/FuchsiaIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Feline/FuchsiaIcon_Feline</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
 
         <renderNodeProperties>
@@ -1177,7 +1177,7 @@
         <labelShortAdj>Burgundy-eyed</labelShortAdj>
         <description>Carriers of this gene have Red eyes.</description>
         <displayCategory>EyeColoursFeline</displayCategory>
-        <iconPath>UI/Icons/Genes/Feline/BurgundyIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Feline/BurgundyIcon_Feline</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
 
         <renderNodeProperties>
@@ -1473,7 +1473,7 @@
         <labelShortAdj>TinCan-eyed</labelShortAdj>
         <description>Carriers of this gene have Monochrome eyes.</description>
         <displayCategory>EyeColoursFeline</displayCategory>
-        <iconPath>UI/Icons/Genes/Feline/TinCanIcon_Feline_Feline</iconPath>
+        <iconPath>UI/Icons/Genes/Feline/TinCanIcon_Feline</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
 
         <renderNodeProperties>
@@ -2739,7 +2739,7 @@
         <labelShortAdj>Olive-eyed</labelShortAdj>
         <description>Carriers of this gene have Green eyes.</description>
         <displayCategory>EyeColoursFeline</displayCategory>
-        <iconPath>UI/Icons/Genes/Feline/OliveIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Feline/OliveIcon_Feline</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
 
         <renderNodeProperties>
@@ -2983,7 +2983,7 @@
         <labelShortAdj>CoolMint-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColoursFeline</displayCategory>
-        <iconPath>UI/Icons/Genes/Feline/CoolMintIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Feline/CoolMintIcon_Feline</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
 
         <renderNodeProperties>
@@ -3081,7 +3081,7 @@
         <labelShortAdj>Bluegill-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColoursFeline</displayCategory>
-        <iconPath>UI/Icons/Genes/Feline/BluegillIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Feline/BluegillIcon_Feline</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
 
         <renderNodeProperties>
@@ -3667,7 +3667,7 @@
         <labelShortAdj>DeepSea-eyed</labelShortAdj>
         <description>Carriers of this gene have Blue eyes.</description>
         <displayCategory>EyeColoursFeline</displayCategory>
-        <iconPath>UI/Icons/Genes/Feline/DeepSeaIcon</iconPath>
+        <iconPath>UI/Icons/Genes/Feline/DeepSeaIcon_Feline</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
 
         <renderNodeProperties>
