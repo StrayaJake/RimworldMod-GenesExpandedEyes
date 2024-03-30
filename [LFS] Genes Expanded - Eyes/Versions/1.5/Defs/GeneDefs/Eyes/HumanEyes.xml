@@ -3369,8 +3369,8 @@
 
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/WildBlueberry</texPath>
-                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/WildBlueberry</texPathFemale>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/WildBlueBerry</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/WildBlueBerry</texPathFemale>
                 <anchorTag>RightEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
@@ -3384,8 +3384,8 @@
                 </drawData>
             </li>
             <li Class="PawnRenderNodeProperties_Eye">
-                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/WildBlueberry</texPath>
-                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/WildBlueberry</texPathFemale>
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/WildBlueBerry</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/HumanEyes/WildBlueBerry</texPathFemale>
                 <anchorTag>LeftEye</anchorTag>
                 <rotDrawMode>Fresh, Rotting</rotDrawMode>
                 <parentTagDef>Head</parentTagDef>
