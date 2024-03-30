@@ -16,6 +16,9 @@ This is a simple mod that adds a bunch of genes in for custom eye colours. All v
 [![Steam Link](https://i.imgur.com/pwLOqbW.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2892939181)
 [![Steam Workshop](https://i.imgur.com/AK1ihlj.png)](https://steamcommunity.com/workshop/filedetails/?id=2877887281)
 
+Other Intergrations
+[Integrated Xenotypes](https://steamcommunity.com/sharedfiles/filedetails/?id=2888056643)
+
 Recommended to use this mod with [Camera+](https://steamcommunity.com/sharedfiles/filedetails/?id=867467808) as the eyes will be small and hard to see the details.
 
 Have a mod you want to be made compatible with? Ask in the comments :)
