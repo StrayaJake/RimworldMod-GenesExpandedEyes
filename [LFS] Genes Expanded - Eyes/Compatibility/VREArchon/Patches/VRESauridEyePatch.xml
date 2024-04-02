@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "VRE_Archon"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_YellowFin_Reptile>1</Eyes_YellowFin_Reptile>
+                            <Eyes_BananaSplit_Reptile>1</Eyes_BananaSplit_Reptile>
+                            <Eyes_TaxiCab_Reptile>1</Eyes_TaxiCab_Reptile>
+                            <Eyes_GoldFish_Reptile>1</Eyes_GoldFish_Reptile>
+                            <Eyes_BurntOrange_Reptile>1</Eyes_BurntOrange_Reptile>
+                            <Eyes_Clay_Reptile>1</Eyes_Clay_Reptile>
+                            <Eyes_Tangerine_Reptile>1</Eyes_Tangerine_Reptile>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
