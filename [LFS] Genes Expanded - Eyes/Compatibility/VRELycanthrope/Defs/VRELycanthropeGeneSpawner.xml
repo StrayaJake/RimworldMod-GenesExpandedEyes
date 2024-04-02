@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <LFS_GenesExpandedEyes.GeneGroups>
+        <defName>VRE_Wolfman</defName>
+        <geneGroups> </geneGroups>
+    </LFS_GenesExpandedEyes.GeneGroups>
+
+    <LFS_GenesExpandedEyes.GeneGroups>
+        <defName>VRE_Lycan</defName>
+        <geneGroups> </geneGroups>
+    </LFS_GenesExpandedEyes.GeneGroups>
+</Defs>

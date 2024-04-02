@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "VRE_Wolfman"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_YellowFin>1</Eyes_YellowFin>
+                            <Eyes_BananaSplit>1</Eyes_BananaSplit>
+                            <Eyes_TaxiCab>1</Eyes_TaxiCab>
+                            <Eyes_GoldFish>1</Eyes_GoldFish>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "VRE_Lycan"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_YellowFin>1</Eyes_YellowFin>
+                            <Eyes_BananaSplit>1</Eyes_BananaSplit>
+                            <Eyes_TaxiCab>1</Eyes_TaxiCab>
+                            <Eyes_GoldFish>1</Eyes_GoldFish>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
