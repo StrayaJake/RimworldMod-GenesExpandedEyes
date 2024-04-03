@@ -20,6 +20,24 @@ This is a simple mod that adds a bunch of genes in for custom eye colours. All v
 
 [Integrated Xenotypes](https://steamcommunity.com/sharedfiles/filedetails/?id=2888056643)
 
+[VRE Hussar](https://steamcommunity.com/sharedfiles/filedetails/?id=2893586390)
+
+[VRE Sanguophage](https://steamcommunity.com/sharedfiles/filedetails/?id=2963116383)
+
+[VRE Pigskin](https://steamcommunity.com/sharedfiles/filedetails/?id=3164798809)
+
+[VRE Phytokin](https://steamcommunity.com/sharedfiles/filedetails/?id=2927323805)
+
+[VRE Lycanthrope](https://steamcommunity.com/sharedfiles/filedetails/?id=3114453100)
+
+[VRE Highmate](https://steamcommunity.com/sharedfiles/filedetails/?id=2995385834)
+
+[VRE Fungoid](https://steamcommunity.com/sharedfiles/filedetails/?id=3042690053)
+
+[VRE Archon](https://steamcommunity.com/sharedfiles/filedetails/?id=3067715093)
+
+[VRE Waster](https://steamcommunity.com/sharedfiles/filedetails/?id=2983471725)
+
 # Recommend Mods
 Recommended to use this mod with [Camera+](https://steamcommunity.com/sharedfiles/filedetails/?id=867467808) as the eyes will be small and hard to see the details.
 
