@@ -13,7 +13,8 @@
         <li IfModActive="vanillaracesexpanded.Phytokin">Compatibility/VREPhytokin</li>
         <li IfModActive="vanillaracesexpanded.pigskin">Compatibility/VREPigSkin</li>
         <li IfModActive="vanillaracesexpanded.lycanthrope">Compatibility/VRElycanthrope</li>
-        <li IfModActive="vanillaracesexpanded.VRESaurid">Compatibility/VRESaurid</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
+        <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
     </v1.4>
     <v1.5>
         <li>Versions/1.5</li>
@@ -29,6 +30,7 @@
         <li IfModActive="vanillaracesexpanded.Phytokin">Compatibility/VREPhytokin</li>
         <li IfModActive="vanillaracesexpanded.pigskin">Compatibility/VREPigSkin</li>
         <li IfModActive="vanillaracesexpanded.lycanthrope">Compatibility/VRElycanthrope</li>
-        <li IfModActive="vanillaracesexpanded.VRESaurid">Compatibility/VRESaurid</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
+        <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
     </v1.5>
 </loadFolders>
