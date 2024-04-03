@@ -4,4 +4,14 @@
         <defName>VRE_Poluxkin</defName>
         <geneGroups> </geneGroups>
     </LFS_GenesExpandedEyes.GeneGroups>
+
+    <LFS_GenesExpandedEyes.GeneGroups>
+        <defName>VRE_Gauranlenkin</defName>
+        <geneGroups> </geneGroups>
+    </LFS_GenesExpandedEyes.GeneGroups>
+
+    <LFS_GenesExpandedEyes.GeneGroups>
+        <defName>VRE_Animakin</defName>
+        <geneGroups> </geneGroups>
+    </LFS_GenesExpandedEyes.GeneGroups>
 </Defs>

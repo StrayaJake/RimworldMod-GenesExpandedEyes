@@ -29,6 +29,36 @@
                     </li>
                 </value>
             </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "VRE_Gauranlenkin"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_GoldFish>1</Eyes_GoldFish>
+                            <Eyes_BurntOrange>1</Eyes_BurntOrange>
+                            <Eyes_Clay>1</Eyes_Clay>
+                            <Eyes_Tangerine>1</Eyes_Tangerine>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "VRE_Animakin"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_Teal>1</Eyes_Teal>
+                            <Eyes_Denim>1</Eyes_Denim>
+                            <Eyes_CoolMint>1</Eyes_CoolMint>
+                            <Eyes_IslandLagoon>1</Eyes_IslandLagoon>
+                            <Eyes_SummerSky>1</Eyes_SummerSky>
+                            <Eyes_MauiSurf>1</Eyes_MauiSurf>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
         </operations>
     </Operation>
 </Patch>
