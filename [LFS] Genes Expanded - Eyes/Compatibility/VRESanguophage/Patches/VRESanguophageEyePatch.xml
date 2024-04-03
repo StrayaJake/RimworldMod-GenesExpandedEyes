@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "VRE_Strigoi"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_BurntOrange>1</Eyes_BurntOrange>
+                            <Eyes_Clay>1</Eyes_Clay>
+                            <Eyes_Tangerine>1</Eyes_Tangerine>
+                            <Eyes_PaleLavender>1</Eyes_PaleLavender>
+                            <Eyes_Bubblegum>1</Eyes_Bubblegum>
+                            <Eyes_Fuchsia>1</Eyes_Fuchsia>
+                            <Eyes_Rose>1</Eyes_Rose>
+                            <Eyes_Raspberry>1</Eyes_Raspberry>
+                            <Eyes_Redfish>1</Eyes_Redfish>
+                            <Eyes_FireRed>1</Eyes_FireRed>
+                            <Eyes_MarsRed>1</Eyes_MarsRed>
+                            <Eyes_Cranberry>1</Eyes_Cranberry>
+                            <Eyes_Burgundy>1</Eyes_Burgundy>
+                            <Eyes_Merlot>1</Eyes_Merlot>
+                            <Eyes_Rattan>1</Eyes_Rattan>
+                            <Eyes_MidasGold>1</Eyes_MidasGold>
+                            <Eyes_BeesWax>1</Eyes_BeesWax>
+                            <Eyes_Sunset>1</Eyes_Sunset>
+                            <Eyes_Teak>1</Eyes_Teak>
+                            <Eyes_Almond>1</Eyes_Almond>
+                            <Eyes_DesertSand>1</Eyes_DesertSand>
+                            <Eyes_Copper>1</Eyes_Copper>
+                            <Eyes_Brown>1</Eyes_Brown>
+                            <Eyes_Chestnut>1</Eyes_Chestnut>
+                            <Eyes_Chocolate>1</Eyes_Chocolate>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "VRE_Ekkimian"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_BurntOrange>1</Eyes_BurntOrange>
+                            <Eyes_Clay>1</Eyes_Clay>
+                            <Eyes_Tangerine>1</Eyes_Tangerine>
+                            <Eyes_PaleLavender>1</Eyes_PaleLavender>
+                            <Eyes_Bubblegum>1</Eyes_Bubblegum>
+                            <Eyes_Fuchsia>1</Eyes_Fuchsia>
+                            <Eyes_Rose>1</Eyes_Rose>
+                            <Eyes_Raspberry>1</Eyes_Raspberry>
+                            <Eyes_Redfish>1</Eyes_Redfish>
+                            <Eyes_FireRed>1</Eyes_FireRed>
+                            <Eyes_MarsRed>1</Eyes_MarsRed>
+                            <Eyes_Cranberry>1</Eyes_Cranberry>
+                            <Eyes_Burgundy>1</Eyes_Burgundy>
+                            <Eyes_Merlot>1</Eyes_Merlot>
+                            <Eyes_Rattan>1</Eyes_Rattan>
+                            <Eyes_MidasGold>1</Eyes_MidasGold>
+                            <Eyes_BeesWax>1</Eyes_BeesWax>
+                            <Eyes_Sunset>1</Eyes_Sunset>
+                            <Eyes_Teak>1</Eyes_Teak>
+                            <Eyes_Almond>1</Eyes_Almond>
+                            <Eyes_DesertSand>1</Eyes_DesertSand>
+                            <Eyes_Copper>1</Eyes_Copper>
+                            <Eyes_Brown>1</Eyes_Brown>
+                            <Eyes_Chestnut>1</Eyes_Chestnut>
+                            <Eyes_Chocolate>1</Eyes_Chocolate>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "VRE_Bruxa"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_BurntOrange>1</Eyes_BurntOrange>
+                            <Eyes_Clay>1</Eyes_Clay>
+                            <Eyes_Tangerine>1</Eyes_Tangerine>
+                            <Eyes_PaleLavender>1</Eyes_PaleLavender>
+                            <Eyes_Bubblegum>1</Eyes_Bubblegum>
+                            <Eyes_Fuchsia>1</Eyes_Fuchsia>
+                            <Eyes_Rose>1</Eyes_Rose>
+                            <Eyes_Raspberry>1</Eyes_Raspberry>
+                            <Eyes_Redfish>1</Eyes_Redfish>
+                            <Eyes_FireRed>1</Eyes_FireRed>
+                            <Eyes_MarsRed>1</Eyes_MarsRed>
+                            <Eyes_Cranberry>1</Eyes_Cranberry>
+                            <Eyes_Burgundy>1</Eyes_Burgundy>
+                            <Eyes_Merlot>1</Eyes_Merlot>
+                            <Eyes_Rattan>1</Eyes_Rattan>
+                            <Eyes_MidasGold>1</Eyes_MidasGold>
+                            <Eyes_BeesWax>1</Eyes_BeesWax>
+                            <Eyes_Sunset>1</Eyes_Sunset>
+                            <Eyes_Teak>1</Eyes_Teak>
+                            <Eyes_Almond>1</Eyes_Almond>
+                            <Eyes_DesertSand>1</Eyes_DesertSand>
+                            <Eyes_Copper>1</Eyes_Copper>
+                            <Eyes_Brown>1</Eyes_Brown>
+                            <Eyes_Chestnut>1</Eyes_Chestnut>
+                            <Eyes_Chocolate>1</Eyes_Chocolate>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

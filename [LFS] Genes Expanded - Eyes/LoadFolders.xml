@@ -15,6 +15,7 @@
         <li IfModActive="vanillaracesexpanded.lycanthrope">Compatibility/VRElycanthrope</li>
         <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
         <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
+        <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/VRESanguophage</li>
     </v1.4>
     <v1.5>
         <li>Versions/1.5</li>
@@ -32,5 +33,6 @@
         <li IfModActive="vanillaracesexpanded.lycanthrope">Compatibility/VRElycanthrope</li>
         <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
         <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
+        <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/VRESanguophage</li>
     </v1.5>
 </loadFolders>
