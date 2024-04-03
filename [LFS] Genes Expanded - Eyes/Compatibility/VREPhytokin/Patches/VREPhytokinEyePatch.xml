@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "VRE_Poluxkin"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_YellowFin>1</Eyes_YellowFin>
+                            <Eyes_BananaSplit>1</Eyes_BananaSplit>
+                            <Eyes_TaxiCab>1</Eyes_TaxiCab>
+                            <Eyes_BurntOrange>1</Eyes_BurntOrange>
+                            <Eyes_Clay>1</Eyes_Clay>
+                            <Eyes_Tangerine>1</Eyes_Tangerine>
+                            <Eyes_Kiwi>1</Eyes_Kiwi>
+                            <Eyes_PeaSoup>1</Eyes_PeaSoup>
+                            <Eyes_Sage>1</Eyes_Sage>
+                            <Eyes_Guacamole>1</Eyes_Guacamole>
+                            <Eyes_Rainforest>1</Eyes_Rainforest>
+                            <Eyes_OakLeaf>1</Eyes_OakLeaf>
+                            <Eyes_Jade>1</Eyes_Jade>
+                            <Eyes_Fern>1</Eyes_Fern>
+                            <Eyes_Evergreen>1</Eyes_Evergreen>
+                            <Eyes_Olive>1</Eyes_Olive>
+                            <Eyes_DesertCamo>1</Eyes_DesertCamo>
+                            <Eyes_Taupe>1</Eyes_Taupe>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
