@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "VRE_Boarskin"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_Black>1</Eyes_Black>
+                            <Eyes_Rattan>1</Eyes_Rattan>
+                            <Eyes_MidasGold>1</Eyes_MidasGold>
+                            <Eyes_BeesWax>1</Eyes_BeesWax>
+                            <Eyes_Sunset>1</Eyes_Sunset>
+                            <Eyes_Teak>1</Eyes_Teak>
+                            <Eyes_Almond>1</Eyes_Almond>
+                            <Eyes_DesertSand>1</Eyes_DesertSand>
+                            <Eyes_Copper>1</Eyes_Copper>
+                            <Eyes_Brown>1</Eyes_Brown>
+                            <Eyes_Chestnut>1</Eyes_Chestnut>
+                            <Eyes_Chocolate>1</Eyes_Chocolate>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

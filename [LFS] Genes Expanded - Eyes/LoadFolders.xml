@@ -5,9 +5,13 @@
         <li IfModActive="lazyfridaystudio.nightShademercenarys">Compatibility/LFSNightShadeMercenaries</li>
         <li IfModActive="Nals.FacialAnimation">Compatibility/FacialAnimation</li>
         <li IfModActive="filox.xenotype">Compatibility/FiloxXenoType/</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
         <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
         <li IfModActive="Turnovus.Biotech.IntegratedXenotypes">Compatibility/IntegratedXenos</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/android</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/archon</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/fungoid</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/lycanthrope</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
     </v1.4>
     <v1.5>
         <li>Versions/1.5</li>
@@ -15,8 +19,12 @@
         <li IfModActive="lazyfridaystudio.nightShademercenarys">Compatibility/LFSNightShadeMercenaries</li>
         <li IfModActive="Nals.FacialAnimation">Compatibility/FacialAnimation</li>
         <li IfModActive="filox.xenotype">Compatibility/FiloxXenoType/</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
         <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
         <li IfModActive="Turnovus.Biotech.IntegratedXenotypes">Compatibility/IntegratedXenos</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/android</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/archon</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/fungoid</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/lycanthrope</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
     </v1.5>
 </loadFolders>
