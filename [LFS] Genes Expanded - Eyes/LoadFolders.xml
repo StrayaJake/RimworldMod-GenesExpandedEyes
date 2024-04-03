@@ -7,11 +7,13 @@
         <li IfModActive="filox.xenotype">Compatibility/FiloxXenoType/</li>
         <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
         <li IfModActive="Turnovus.Biotech.IntegratedXenotypes">Compatibility/IntegratedXenos</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/android</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/archon</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/fungoid</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/lycanthrope</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
+        <li IfModActive="vanillaracesexpanded.android">Compatibility/VREandroid</li>
+        <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREarchon</li>
+        <li IfModActive="vanillaracesexpanded.fungoid">Compatibility/VREfungoid</li>
+        <li IfModActive="vanillaracesexpanded.Phytokin">Compatibility/VREPhytokin</li>
+        <li IfModActive="vanillaracesexpanded.pigskin">Compatibility/VREPigSkin</li>
+        <li IfModActive="vanillaracesexpanded.lycanthrope">Compatibility/VRElycanthrope</li>
+        <li IfModActive="vanillaracesexpanded.VRESaurid">Compatibility/VRESaurid</li>
     </v1.4>
     <v1.5>
         <li>Versions/1.5</li>
@@ -21,10 +23,12 @@
         <li IfModActive="filox.xenotype">Compatibility/FiloxXenoType/</li>
         <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
         <li IfModActive="Turnovus.Biotech.IntegratedXenotypes">Compatibility/IntegratedXenos</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/android</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/archon</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/fungoid</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/lycanthrope</li>
-        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
+        <li IfModActive="vanillaracesexpanded.android">Compatibility/VREandroid</li>
+        <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREarchon</li>
+        <li IfModActive="vanillaracesexpanded.fungoid">Compatibility/VREfungoid</li>
+        <li IfModActive="vanillaracesexpanded.Phytokin">Compatibility/VREPhytokin</li>
+        <li IfModActive="vanillaracesexpanded.pigskin">Compatibility/VREPigSkin</li>
+        <li IfModActive="vanillaracesexpanded.lycanthrope">Compatibility/VRElycanthrope</li>
+        <li IfModActive="vanillaracesexpanded.VRESaurid">Compatibility/VRESaurid</li>
     </v1.5>
 </loadFolders>
