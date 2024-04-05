@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "Stoneborn"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_White>1</Eyes_White>
+                            <Eyes_SilverShiner>1</Eyes_SilverShiner>
+                            <Eyes_GhostGrey>1</Eyes_GhostGrey>
+                            <Eyes_SilverSmoke>1</Eyes_SilverSmoke>
+                            <Eyes_TinCan>1</Eyes_TinCan>
+                            <Eyes_SmokeScreen>1</Eyes_SmokeScreen>
+                            <Eyes_ForgedSteel>1</Eyes_ForgedSteel>
+                            <Eyes_IronOre>1</Eyes_IronOre>
+                            <Eyes_StormCloud>1</Eyes_StormCloud>
+                            <Eyes_Black>1</Eyes_Black>
+                            <Eyes_Rattan>1</Eyes_Rattan>
+                            <Eyes_MidasGold>1</Eyes_MidasGold>
+                            <Eyes_BeesWax>1</Eyes_BeesWax>
+                            <Eyes_Sunset>1</Eyes_Sunset>
+                            <Eyes_Teak>1</Eyes_Teak>
+                            <Eyes_Almond>1</Eyes_Almond>
+                            <Eyes_DesertSand>1</Eyes_DesertSand>
+                            <Eyes_Copper>1</Eyes_Copper>
+                            <Eyes_Brown>1</Eyes_Brown>
+                            <Eyes_Chestnut>1</Eyes_Chestnut>
+                            <Eyes_Chocolate>1</Eyes_Chocolate>
+                            <Eyes_Kiwi>1</Eyes_Kiwi>
+                            <Eyes_PeaSoup>1</Eyes_PeaSoup>
+                            <Eyes_Sage>1</Eyes_Sage>
+                            <Eyes_Guacamole>1</Eyes_Guacamole>
+                            <Eyes_Rainforest>1</Eyes_Rainforest>
+                            <Eyes_OakLeaf>1</Eyes_OakLeaf>
+                            <Eyes_Jade>1</Eyes_Jade>
+                            <Eyes_Fern>1</Eyes_Fern>
+                            <Eyes_Evergreen>1</Eyes_Evergreen>
+                            <Eyes_Olive>1</Eyes_Olive>
+                            <Eyes_DesertCamo>1</Eyes_DesertCamo>
+                            <Eyes_Taupe>1</Eyes_Taupe>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
