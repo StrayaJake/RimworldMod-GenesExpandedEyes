@@ -18,7 +18,7 @@
         <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/VRESanguophage</li>
         <li IfModActive="det.boglegs">Compatibility/DetBoglegs</li>
         <li IfModActive="det.stoneborn">Compatibility/DetStoneborn</li>
-
+        <li IfModActive="det.venators">Compatibility/DetVenators</li>
     </v1.4>
     <v1.5>
         <li>Versions/1.5</li>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/LFS_GenesExpandedEyes.GeneGroups[defName = "DV_Venator"]/geneGroups </xpath>
+                <value>
+                    <li>
+                        <Endogenes>
+                            <Eyes_White>1</Eyes_White>
+                            <Eyes_SilverShiner>1</Eyes_SilverShiner>
+                            <Eyes_GhostGrey>1</Eyes_GhostGrey>
+                            <Eyes_SilverSmoke>1</Eyes_SilverSmoke>
+                            <Eyes_TinCan>1</Eyes_TinCan>
+                            <Eyes_SmokeScreen>1</Eyes_SmokeScreen>
+                            <Eyes_ForgedSteel>1</Eyes_ForgedSteel>
+                            <Eyes_IronOre>1</Eyes_IronOre>
+                            <Eyes_StormCloud>1</Eyes_StormCloud>
+                            <Eyes_Black>1</Eyes_Black>
+                            <Eyes_PaleLavender>1</Eyes_PaleLavender>
+                            <Eyes_Lilac>1</Eyes_Lilac>
+                            <Eyes_Orchid>1</Eyes_Orchid>
+                            <Eyes_Plum>1</Eyes_Plum>
+                            <Eyes_Violet>1</Eyes_Violet>
+                            <Eyes_Grape>1</Eyes_Grape>
+                            <Eyes_Purple>1</Eyes_Purple>
+                            <Eyes_Amethyst>1</Eyes_Amethyst>
+                            <Eyes_PurpleHeart>1</Eyes_PurpleHeart>
+                            <Eyes_Bubblegum>1</Eyes_Bubblegum>
+                            <Eyes_Fuchsia>1</Eyes_Fuchsia>
+                        </Endogenes>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
