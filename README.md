@@ -38,6 +38,16 @@ This is a simple mod that adds a bunch of genes in for custom eye colours. All v
 
 [VRE Waster](https://steamcommunity.com/sharedfiles/filedetails/?id=2983471725)
 
+[Det's Xenotypes - Boglegs](https://steamcommunity.com/sharedfiles/filedetails/?id=3146564944)
+
+[Det's Xenotypes - Stoneborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2888722722)
+
+[Det's Xenotypes - Venator](https://steamcommunity.com/sharedfiles/filedetails/?id=3140248688)
+
+[Det's Xenotypes - Venator](https://steamcommunity.com/sharedfiles/filedetails/?id=3140248688)
+
+[Nephilim Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=2997308585)
+
 # Recommend Mods
 Recommended to use this mod with [Camera+](https://steamcommunity.com/sharedfiles/filedetails/?id=867467808) as the eyes will be small and hard to see the details.
 
