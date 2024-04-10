@@ -1,0 +1,6 @@
+A:\Git Repos\RimworldMod-GenesExpandedEyes\LFSGeneExpandedEyes\Builds\LFSGeneExpandedEyes.dll
+A:\Git Repos\RimworldMod-GenesExpandedEyes\LFSGeneExpandedEyes\Builds\LFSGeneExpandedEyes.pdb
+A:\Git Repos\RimworldMod-GenesExpandedEyes\LFSGeneExpandedEyes\obj\Debug\LFSGeneExpandedEyes.csproj.AssemblyReference.cache
+A:\Git Repos\RimworldMod-GenesExpandedEyes\LFSGeneExpandedEyes\obj\Debug\LFSGeneExpandedEyes.csproj.CoreCompileInputs.cache
+A:\Git Repos\RimworldMod-GenesExpandedEyes\LFSGeneExpandedEyes\obj\Debug\LFSGeneExpandedEyes.dll
+A:\Git Repos\RimworldMod-GenesExpandedEyes\LFSGeneExpandedEyes\obj\Debug\LFSGeneExpandedEyes.pdb

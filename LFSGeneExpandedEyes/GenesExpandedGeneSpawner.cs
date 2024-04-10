@@ -11,6 +11,7 @@ namespace LFS_GenesExpandedEyes
     public static class HarmonyPatch
     {
         private static readonly Type patchType = typeof(HarmonyPatch);
+        private static readonly string defaultAutoPatchName = "DefaultAutoPatch";
 
         static HarmonyPatch()
         {
@@ -32,16 +33,24 @@ namespace LFS_GenesExpandedEyes
 
             if (isBaby) return;
             if (customXeno) return;
-            
+
             GeneGroups possibleEndotypes =
                 DefDatabase<GeneGroups>.AllDefs.FirstOrDefault((GeneGroups x) =>
                     string.Equals(x.defName, pawn.genes.Xenotype.defName,
                         StringComparison.CurrentCultureIgnoreCase));
 
+            if (possibleEndotypes == null)
+            {
+                possibleEndotypes =
+                    DefDatabase<GeneGroups>.AllDefs.FirstOrDefault((GeneGroups x) =>
+                        string.Equals(x.defName, defaultAutoPatchName,
+                            StringComparison.CurrentCultureIgnoreCase));
+            }
+
             var doesHaveEndoType = possibleEndotypes != null;
-            
+
             if (!doesHaveEndoType) return;
-            
+
             var rnd = new Random();
             foreach (var geneGroup in possibleEndotypes.geneGroups)
             {
