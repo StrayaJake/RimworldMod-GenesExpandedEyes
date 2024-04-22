@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_YellowFin_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_BananaSplit_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_TaxiCab_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_GoldFish_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_BurntOrange_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Clay_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Tangerine_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_PaleLavender_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Lilac_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Orchid_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Plum_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Violet_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Purple_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Amethyst_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_PurpleHeart_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Bubblegum_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Fuchsia_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Rose_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Raspberry_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Redfish_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_FireRed_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_MarsRed_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Cranberry_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Burgundy_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Merlot_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_White_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_SilverShiner_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_GhostGrey_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_SilverSmoke_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_TinCan_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_SmokeScreen_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_ForgedSteel_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_IronOre_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_StormCloud_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Black_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Rattan_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_MidasGold_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_BeesWax_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Sunset_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Teak_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Almond_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_DesertSand_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Copper_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Brown_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Chestnut_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Chocolate_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Kiwi_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_PeaSoup_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Sage_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Guacamole_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Rainforest_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_OakLeaf_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Jade_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Fern_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Evergreen_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Olive_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_DesertCamo_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Taupe_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Teal_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Denim_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_CoolMint_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_IslandLagoon_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Bluegill_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_BlueSuede_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_SummerSky_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_TidalPool_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_MauiSurf_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_CoolAzul_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_RegalBlue_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_WildBlueberry_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Blurple_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_BlueMarlin_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_Gulfstream_Feline"]/renderNodeProperties</xpath>
+            </li>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/GeneDef[defName="Eyes_DeepSea_Feline"]/renderNodeProperties</xpath>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

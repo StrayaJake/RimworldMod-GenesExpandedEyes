@@ -3,7 +3,7 @@
         <li>Versions/1.4</li>
         <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
         <li IfModActive="lazyfridaystudio.nightShademercenarys">Compatibility/LFSNightShadeMercenaries</li>
-        <li IfModActive="Nals.FacialAnimation">Compatibility/FacialAnimation</li>
+        <li IfModActive="Nals.FacialAnimation">Compatibility/FacialAnimation/1.4</li>
         <li IfModActive="filox.xenotype">Compatibility/FiloxXenoType/</li>
         <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
         <li IfModActive="Turnovus.Biotech.IntegratedXenotypes">Compatibility/IntegratedXenos</li>
@@ -25,7 +25,7 @@
         <li>Versions/1.5</li>
         <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
         <li IfModActive="lazyfridaystudio.nightShademercenarys">Compatibility/LFSNightShadeMercenaries</li>
-        <li IfModActive="Nals.FacialAnimation">Compatibility/FacialAnimation</li>
+        <li IfModActive="Nals.FacialAnimation">Compatibility/FacialAnimation/1.5</li>
         <li IfModActive="filox.xenotype">Compatibility/FiloxXenoType/</li>
         <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
         <li IfModActive="Turnovus.Biotech.IntegratedXenotypes">Compatibility/IntegratedXenos</li>

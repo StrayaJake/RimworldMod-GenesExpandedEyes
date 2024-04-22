@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <!-- Yellow -->
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_YellowFin_FA</defName>
+        <geneDef>Eyes_YellowFin</geneDef>
+        <eyeballColor>RGB(243,240,143)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_BananaSplit_FA</defName>
+        <geneDef>Eyes_BananaSplit</geneDef>
+        <eyeballColor>RGB(256,240,143)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_TaxiCab_FA</defName>
+        <geneDef>Eyes_TaxiCab</geneDef>
+        <eyeballColor>RGB(255,211,76)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <!-- Orange -->
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_GoldFish_FA</defName>
+        <geneDef>Eyes_GoldFish</geneDef>
+        <eyeballColor>RGB(248,152,29)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_BurntOrange_FA</defName>
+        <geneDef>Eyes_BurntOrange</geneDef>
+        <eyeballColor>RGB(216,110,20)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Clay_FA</defName>
+        <geneDef>Eyes_Clay</geneDef>
+        <eyeballColor>RGB(227,113,33)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Tangerine_FA</defName>
+        <geneDef>Eyes_Tangerine</geneDef>
+        <eyeballColor>RGB(245,116,33)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <!-- Purple -->
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_PaleLavender_FA</defName>
+        <geneDef>Eyes_PaleLavender</geneDef>
+        <eyeballColor>RGB(227,203,225)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Lilac_FA</defName>
+        <geneDef>Eyes_Lilac</geneDef>
+        <eyeballColor>RGB(152,109,163)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Orchid_FA</defName>
+        <geneDef>Eyes_Orchid</geneDef>
+        <eyeballColor>RGB(191,129,182)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Plum_FA</defName>
+        <geneDef>Eyes_Plum</geneDef>
+        <eyeballColor>RGB(135,33,117)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Violet_FA</defName>
+        <geneDef>Eyes_Violet</geneDef>
+        <eyeballColor>RGB(148,37,146)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Grape_FA</defName>
+        <geneDef>Eyes_Grape</geneDef>
+        <eyeballColor>RGB(80,33,131)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Purple_FA</defName>
+        <geneDef>Eyes_Purple</geneDef>
+        <eyeballColor>RGB(54,43,112)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Amethyst_FA</defName>
+        <geneDef>Eyes_Amethyst</geneDef>
+        <eyeballColor>RGB(113,112,181)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_PurpleHeart_FA</defName>
+        <geneDef>Eyes_PurpleHeart</geneDef>
+        <eyeballColor>RGB(58,53,120)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <!-- Red -->
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Bubblegum_FA</defName>
+        <geneDef>Eyes_Bubblegum</geneDef>
+        <eyeballColor>RGB(243,148,190)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Fuchsia_FA</defName>
+        <geneDef>Eyes_Fuchsia</geneDef>
+        <eyeballColor>RGB(238,4,144)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Rose_FA</defName>
+        <geneDef>Eyes_Rose</geneDef>
+        <eyeballColor>RGB(212,32,43)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Raspberry_FA</defName>
+        <geneDef>Eyes_Raspberry</geneDef>
+        <eyeballColor>RGB(201,1,106)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Redfish_FA</defName>
+        <geneDef>Eyes_Redfish</geneDef>
+        <eyeballColor>RGB(239,49,37)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_FireRed_FA</defName>
+        <geneDef>Eyes_FireRed</geneDef>
+        <eyeballColor>RGB(232,25,54)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_MarsRed_FA</defName>
+        <geneDef>Eyes_MarsRed</geneDef>
+        <eyeballColor>RGB(192,46,25)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Cranberry_FA</defName>
+        <geneDef>Eyes_Cranberry</geneDef>
+        <eyeballColor>RGB(199,7,82)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Burgundy_FA</defName>
+        <geneDef>Eyes_Burgundy</geneDef>
+        <eyeballColor>RGB(152,1,46)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Merlot_FA</defName>
+        <geneDef>Eyes_Merlot</geneDef>
+        <eyeballColor>RGB(142,11,2)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <!-- Monochrome -->
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_White_FA</defName>
+        <geneDef>Eyes_White</geneDef>
+        <eyeballColor>RGB(255,255,255)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_SilverShiner_FA</defName>
+        <geneDef>Eyes_SilverShiner</geneDef>
+        <eyeballColor>RGB(177,183,188)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_GhostGrey_FA</defName>
+        <geneDef>Eyes_GhostGrey</geneDef>
+        <eyeballColor>RGB(140,155,148)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_SilverSmoke_FA</defName>
+        <geneDef>Eyes_SilverSmoke</geneDef>
+        <eyeballColor>RGB(148,155,161)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_TinCan_FA</defName>
+        <geneDef>Eyes_TinCan</geneDef>
+        <eyeballColor>RGB(194,183,177)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_SmokeScreen_FA</defName>
+        <geneDef>Eyes_SmokeScreen</geneDef>
+        <eyeballColor>RGB(95,96,98)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_ForgedSteel_FA</defName>
+        <geneDef>Eyes_ForgedSteel</geneDef>
+        <eyeballColor>RGB(128,163,183)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_IronOre_FA</defName>
+        <geneDef>Eyes_IronOre</geneDef>
+        <eyeballColor>RGB(105,117,126)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_StormCloud_FA</defName>
+        <geneDef>Eyes_StormCloud</geneDef>
+        <eyeballColor>RGB(69,86,96)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Black_FA</defName>
+        <geneDef>Eyes_Black</geneDef>
+        <eyeballColor>RGB(17,21,24)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <!-- Brown -->
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Rattan_FA</defName>
+        <geneDef>Eyes_Rattan</geneDef>
+        <eyeballColor>RGB(197,150,12)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_MidasGold_FA</defName>
+        <geneDef>Eyes_MidasGold</geneDef>
+        <eyeballColor>RGB(241,179,16)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_BeesWax_FA</defName>
+        <geneDef>Eyes_BeesWax</geneDef>
+        <eyeballColor>RGB(200,140,18)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Sunset_FA</defName>
+        <geneDef>Eyes_Sunset</geneDef>
+        <eyeballColor>RGB(246,128,38)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Teak_FA</defName>
+        <geneDef>Eyes_Teak</geneDef>
+        <eyeballColor>RGB(179,111,14)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Almond_FA</defName>
+        <geneDef>Eyes_Almond</geneDef>
+        <eyeballColor>RGB(209,170,124)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_DesertSand_FA</defName>
+        <geneDef>Eyes_DesertSand</geneDef>
+        <eyeballColor>RGB(143,111,0)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Brown_FA</defName>
+        <geneDef>Eyes_Brown</geneDef>
+        <eyeballColor>RGB(153,72,9)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Chestnut_FA</defName>
+        <geneDef>Eyes_Chestnut</geneDef>
+        <eyeballColor>RGB(169,76,15)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Chocolate_FA</defName>
+        <geneDef>Eyes_Chocolate</geneDef>
+        <eyeballColor>RGB(68,26,20)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <!-- Green -->
+    
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Kiwi_FA</defName>
+        <geneDef>Eyes_Kiwi</geneDef>
+        <eyeballColor>RGB(182,219,165)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_PeaSoup_FA</defName>
+        <geneDef>Eyes_PeaSoup</geneDef>
+        <eyeballColor>RGB(141,199,63)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Sage_FA</defName>
+        <geneDef>Eyes_Sage</geneDef>
+        <eyeballColor>RGB(55,124,43)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Guacamole_FA</defName>
+        <geneDef>Eyes_Guacamole</geneDef>
+        <eyeballColor>RGB(72,170,67)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Rainforest_FA</defName>
+        <geneDef>Eyes_Rainforest</geneDef>
+        <eyeballColor>RGB(26,179,115)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_OakLeaf_FA</defName>
+        <geneDef>Eyes_OakLeaf</geneDef>
+        <eyeballColor>RGB(0,101,59)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Jade_FA</defName>
+        <geneDef>Eyes_Jade</geneDef>
+        <eyeballColor>RGB(2,148,145)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Fern_FA</defName>
+        <geneDef>Eyes_Fern</geneDef>
+        <eyeballColor>RGB(0,132,102)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Evergreen_FA</defName>
+        <geneDef>Eyes_Evergreen</geneDef>
+        <eyeballColor>RGB(1,87,62)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Olive_FA</defName>
+        <geneDef>Eyes_Olive</geneDef>
+        <eyeballColor>RGB(104,120,23)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_DesertCamo_FA</defName>
+        <geneDef>Eyes_DesertCamo</geneDef>
+        <eyeballColor>RGB(133,124,23)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Taupe_FA</defName>
+        <geneDef>Eyes_Taupe</geneDef>
+        <eyeballColor>RGB(91,84,3)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <!-- Blue -->
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Teal_FA</defName>
+        <geneDef>Eyes_Teal</geneDef>
+        <eyeballColor>RGB(70,196,211)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Denim_FA</defName>
+        <geneDef>Eyes_Denim</geneDef>
+        <eyeballColor>RGB(82,144,203)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_CoolMint_FA</defName>
+        <geneDef>Eyes_CoolMint</geneDef>
+        <eyeballColor>RGB(1,178,149)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_IslandLagoon_FA</defName>
+        <geneDef>Eyes_IslandLagoon</geneDef>
+        <eyeballColor>RGB(1,177,175)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Bluegill_FA</defName>
+        <geneDef>Eyes_Bluegill</geneDef>
+        <eyeballColor>RGB(1,177,175)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+    
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_BlueSuede_FA</defName>
+        <geneDef>Eyes_BlueSuede</geneDef>
+        <eyeballColor>RGB(19,72,140)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_SummerSky_FA</defName>
+        <geneDef>Eyes_SummerSky</geneDef>
+        <eyeballColor>RGB(0,160,222)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_TidalPool_FA</defName>
+        <geneDef>Eyes_TidalPool</geneDef>
+        <eyeballColor>RGB(1,90,131)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_MauiSurf_FA</defName>
+        <geneDef>Eyes_MauiSurf</geneDef>
+        <eyeballColor>RGB(1,181,204)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_CoolAzul_FA</defName>
+        <geneDef>Eyes_CoolAzul</geneDef>
+        <eyeballColor>RGB(0,113,143)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_RegalBlue_FA</defName>
+        <geneDef>Eyes_RegalBlue</geneDef>
+        <eyeballColor>RGB(30,67,138)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_WildBlueberry_FA</defName>
+        <geneDef>Eyes_WildBlueberry</geneDef>
+        <eyeballColor>RGB(1,104,179)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Cobalt_FA</defName>
+        <geneDef>Eyes_Cobalt</geneDef>
+        <eyeballColor>RGB(0,72,144)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Blurple_FA</defName>
+        <geneDef>Eyes_Blurple</geneDef>
+        <eyeballColor>RGB(39,54,147)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_BlueMarlin_FA</defName>
+        <geneDef>Eyes_BlueMarlin</geneDef>
+        <eyeballColor>RGB(0,81,136)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_Gulfstream_FA</defName>
+        <geneDef>Eyes_Gulfstream</geneDef>
+        <eyeballColor>RGB(0,74,101)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+
+    <FacialAnimation.EyeballColorDef>
+        <defName>Eyes_DeepSea_FA</defName>
+        <geneDef>Eyes_DeepSea</geneDef>
+        <eyeballColor>RGB(1,85,129)</eyeballColor>
+    </FacialAnimation.EyeballColorDef>
+</Defs>
