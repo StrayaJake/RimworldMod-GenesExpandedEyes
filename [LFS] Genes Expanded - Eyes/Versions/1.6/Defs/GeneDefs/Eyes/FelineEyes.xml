@@ -1,0 +1,3648 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <!-- Yellow -->
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_YellowFin_Feline</defName>
+        <label>Yellow Fin Eyes</label>
+        <labelShortAdj>yellowfin-eyed</labelShortAdj>
+        <description>Carriers of this gene have yellow eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/YellowfinIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Yellowfin_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_BananaSplit_Feline</defName>
+        <label>Banana Split Eyes</label>
+        <labelShortAdj>BananaSplit-eyed</labelShortAdj>
+        <description>Carriers of this gene have yellow eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BananaSplitIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BananaSplit_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_TaxiCab_Feline</defName>
+        <label>Taxi Cab Eyes</label>
+        <labelShortAdj>TaxiCab-eyed</labelShortAdj>
+        <description>Carriers of this gene have yellow eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TaxiCabIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TaxiCab_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TaxiCab_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TaxiCab_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TaxiCab_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <!-- Orange -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_GoldFish_Feline</defName>
+        <label>Gold Fish Eyes</label>
+        <labelShortAdj>Goldfish-eyed</labelShortAdj>
+        <description>Carriers of this gene have Orange eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/GoldFishIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GoldFish_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_BurntOrange_Feline</defName>
+        <label>Burnt Orange Eyes</label>
+        <labelShortAdj>BurntOrange-eyed</labelShortAdj>
+        <description>Carriers of this gene have Orange eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BurntOrangeIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BurntOrange_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BurntOrange_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BurntOrange_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BurntOrange_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Clay_Feline</defName>
+        <label>Clay Eyes</label>
+        <labelShortAdj>Clay-eyed</labelShortAdj>
+        <description>Carriers of this gene have Orange eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/ClayIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Clay_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Clay_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Clay_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Clay_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Tangerine_Feline</defName>
+        <label>Tangerine Eyes</label>
+        <labelShortAdj>Tangerine-eyed</labelShortAdj>
+        <description>Carriers of this gene have Orange eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TangerineIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Tangerine_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Tangerine_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Tangerine_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Tangerine_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <!-- Purple -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_PaleLavender_Feline</defName>
+        <label>Pale Lavender Eyes</label>
+        <labelShortAdj>PaleLavender-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/PaleLavenderIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PaleLavender_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PaleLavender_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PaleLavender_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PaleLavender_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Lilac_Feline</defName>
+        <label>Lilac Eyes</label>
+        <labelShortAdj>Lilac-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/LilacIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Lilac_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Lilac_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Lilac_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Lilac_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Orchid_Feline</defName>
+        <label>Orchid Eyes</label>
+        <labelShortAdj>Orchid-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/OrchidIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Orchid_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Orchid_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Orchid_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Orchid_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Plum_Feline</defName>
+        <label>Plum Eyes</label>
+        <labelShortAdj>Plum-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/PlumIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Plum_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Plum_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Plum_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Plum_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Violet_Feline</defName>
+        <label>Violet Eyes</label>
+        <labelShortAdj>Violet-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/VioletIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Violet_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Violet_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Violet_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Violet_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Grape_Feline</defName>
+        <label>Grape Eyes</label>
+        <labelShortAdj>Grape-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/GrapeIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Grape_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Grape_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Grape_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Grape_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Purple_Feline</defName>
+        <label>Purple Eyes</label>
+        <labelShortAdj>Purple-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/PurpleIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Purple_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Purple_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Purple_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Purple_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Amethyst_Feline</defName>
+        <label>Amethyst Eyes</label>
+        <labelShortAdj>Amethyst-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/AmethystIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Amethyst_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Amethyst_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Amethyst_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Amethyst_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_PurpleHeart_Feline</defName>
+        <label>Purple Heart Eyes</label>
+        <labelShortAdj>PurpleHeart-eyed</labelShortAdj>
+        <description>Carriers of this gene have Purple eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/PurpleHeartIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PurpleHeart_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PurpleHeart_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PurpleHeart_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PurpleHeart_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <!-- Red -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Bubblegum_Feline</defName>
+        <label>Bubblegum Eyes</label>
+        <labelShortAdj>Bubblegum-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BubblegumIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bubblegum_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bubblegum_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bubblegum_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bubblegum_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Fuchsia_Feline</defName>
+        <label>Fuchsia Eyes</label>
+        <labelShortAdj>Fuchsia-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/FuchsiaIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Fuchsia_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Fuchsia_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Fuchsia_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Fuchsia_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Rose_Feline</defName>
+        <label>Rose Eyes</label>
+        <labelShortAdj>Rose-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/RoseIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rose_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rose_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rose_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rose_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Raspberry_Feline</defName>
+        <label>Raspberry Eyes</label>
+        <labelShortAdj>Raspberry-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/RaspberryIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Raspberry_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Raspberry_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Raspberry_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Raspberry_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Redfish_Feline</defName>
+        <label>Redfish Eyes</label>
+        <labelShortAdj>Redfish-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/RedfishIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Redfish_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Redfish_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Redfish_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Redfish_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_FireRed_Feline</defName>
+        <label>FireRed Eyes</label>
+        <labelShortAdj>FireRed-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/FireRedIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/FireRed_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/FireRed_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/FireRed_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/FireRed_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_MarsRed_Feline</defName>
+        <label>Mars Red Eyes</label>
+        <labelShortAdj>MarsRed-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/MarsRedIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MarsRed_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MarsRed_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MarsRed_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MarsRed_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Cranberry_Feline</defName>
+        <label>Cranberry Eyes</label>
+        <labelShortAdj>Cranberry-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/CranberryIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cranberry_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cranberry_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cranberry_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cranberry_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Burgundy_Feline</defName>
+        <label>Burgundy Eyes</label>
+        <labelShortAdj>Burgundy-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BurgundyIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Burgundy_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Burgundy_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Burgundy_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Burgundy_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Merlot_Feline</defName>
+        <label>Merlot Eyes</label>
+        <labelShortAdj>Bubblegum-eyed</labelShortAdj>
+        <description>Carriers of this gene have Red eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/MerlotIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Merlot_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Merlot_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Merlot_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Merlot_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <!-- Monochrome -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_White_Feline</defName>
+        <label>White Eyes</label>
+        <labelShortAdj>White-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/WhiteIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/White_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/White_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/White_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/White_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_SilverShiner_Feline</defName>
+        <label>Silver Shiner Eyes</label>
+        <labelShortAdj>SilverShiner-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/SilverShinerIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverShiner_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverShiner_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverShiner_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverShiner_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_GhostGrey_Feline</defName>
+        <label>Ghost Grey Eyes</label>
+        <labelShortAdj>GhostGrey-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/GhostGreyIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GhostGrey_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GhostGrey_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GhostGrey_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/GhostGrey_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_SilverSmoke_Feline</defName>
+        <label>Silver Smoke Eyes</label>
+        <labelShortAdj>SilverSmoke-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/SilverSmokeIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverSmoke_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverSmoke_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverSmoke_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SilverSmoke_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_TinCan_Feline</defName>
+        <label>Tin Can Eyes</label>
+        <labelShortAdj>TinCan-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TinCanIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TinCan_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TinCan_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TinCan_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TinCan_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_SmokeScreen_Feline</defName>
+        <label>Smoke Screen Eyes</label>
+        <labelShortAdj>SmokeScreen-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/SmokeScreenIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SmokeScreen_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SmokeScreen_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SmokeScreen_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SmokeScreen_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_ForgedSteel_Feline</defName>
+        <label>Forged Steel Eyes</label>
+        <labelShortAdj>ForgedSteel-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/ForgedSteelIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/ForgedSteel_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/ForgedSteel_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/ForgedSteel_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/ForgedSteel_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_IronOre_Feline</defName>
+        <label>Iron Ore Eyes</label>
+        <labelShortAdj>IronOre-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/IronOreIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IronOre_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IronOre_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IronOre_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IronOre_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_StormCloud_Feline</defName>
+        <label>Storm Cloud Eyes</label>
+        <labelShortAdj>StormCloud-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/StormCloudIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/StormCloud_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/StormCloud_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/StormCloud_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/StormCloud_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Black_Feline</defName>
+        <label>Black Eyes</label>
+        <labelShortAdj>Black-eyed</labelShortAdj>
+        <description>Carriers of this gene have Monochrome eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BlackIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Black_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Black_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Black_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Black_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <!-- Brown -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Rattan_Feline</defName>
+        <label>Rattan Eyes</label>
+        <labelShortAdj>Rattan-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/RattanIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rattan_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rattan_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rattan_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rattan_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_MidasGold_Feline</defName>
+        <label>Midas Gold Eyes</label>
+        <labelShortAdj>MidasGold-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/MidasGoldIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MidasGold_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MidasGold_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MidasGold_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MidasGold_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_BeesWax_Feline</defName>
+        <label>Bees Wax Eyes</label>
+        <labelShortAdj>BeesWax-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BeesWaxIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BeesWax_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BeesWax_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BeesWax_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BeesWax_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Sunset_Feline</defName>
+        <label>Sunset Eyes</label>
+        <labelShortAdj>Sunset-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/SunsetIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Sunset_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Sunset_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Sunset_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Sunset_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Teak_Feline</defName>
+        <label>Teak Eyes</label>
+        <labelShortAdj>Teak-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TeakIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Teak_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Teak_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Teak_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Teak_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Almond_Feline</defName>
+        <label>Almond Eyes</label>
+        <labelShortAdj>Almond-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/AlmondIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Almond_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Almond_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Almond_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Almond_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_DesertSand_Feline</defName>
+        <label>Desert Sand Eyes</label>
+        <labelShortAdj>DesertSand-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/DesertSandIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertSand_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertSand_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertSand_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertSand_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Copper_Feline</defName>
+        <label>Copper Eyes</label>
+        <labelShortAdj>Copper-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/CopperIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Copper_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Copper_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Copper_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Copper_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Brown_Feline</defName>
+        <label>Brown Eyes</label>
+        <labelShortAdj>Brown-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BrownIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Brown_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Brown_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Brown_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Brown_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Chestnut_Feline</defName>
+        <label>Chestnut Eyes</label>
+        <labelShortAdj>Chestnut-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/ChestnutIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chestnut_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chestnut_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chestnut_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chestnut_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Chocolate_Feline</defName>
+        <label>Chocolate Eyes</label>
+        <labelShortAdj>Chocolate-eyed</labelShortAdj>
+        <description>Carriers of this gene have Brown eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/ChocolateIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chocolate_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chocolate_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chocolate_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Chocolate_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <!-- Green -->
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Kiwi_Feline</defName>
+        <label>Kiwi Eyes</label>
+        <labelShortAdj>Kiwi-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/KiwiIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Kiwi_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Kiwi_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Kiwi_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Kiwi_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_PeaSoup_Feline</defName>
+        <label>Pea Soup Eyes</label>
+        <labelShortAdj>PeaSoup-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/PeaSoupIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PeaSoup_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PeaSoup_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PeaSoup_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/PeaSoup_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Sage_Feline</defName>
+        <label>Sage Eyes</label>
+        <labelShortAdj>Sage-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/SageIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Sage_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Sage_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Sage_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Sage_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Guacamole_Feline</defName>
+        <label>Guacamole Eyes</label>
+        <labelShortAdj>Guacamole-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/GuacamoleIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Guacamole_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Guacamole_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Guacamole_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Guacamole_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Rainforest_Feline</defName>
+        <label>Rainforest Eyes</label>
+        <labelShortAdj>Rainforest-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/RainforestIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rainforest_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rainforest_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rainforest_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Rainforest_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_OakLeaf_Feline</defName>
+        <label>Oak Leaf Eyes</label>
+        <labelShortAdj>OakLeaf-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/OakLeafIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/OakLeaf_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/OakLeaf_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/OakLeaf_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/OakLeaf_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Jade_Feline</defName>
+        <label>Jade Eyes</label>
+        <labelShortAdj>Jade-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/JadeIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Jade_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Jade_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Jade_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Jade_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Fern_Feline</defName>
+        <label>Fern Eyes</label>
+        <labelShortAdj>Fern-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/FernIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Fern_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Fern_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Fern_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Fern_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Evergreen_Feline</defName>
+        <label>Evergreen Eyes</label>
+        <labelShortAdj>Evergreen-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/EvergreenIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Evergreen_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Evergreen_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Evergreen_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Evergreen_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Olive_Feline</defName>
+        <label>Olive Eyes</label>
+        <labelShortAdj>Olive-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/OliveIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Olive_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Olive_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Olive_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Olive_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_DesertCamo_Feline</defName>
+        <label>Desert Camo Eyes</label>
+        <labelShortAdj>DesertCamo-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/DesertCamoIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertCamo_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertCamo_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertCamo_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DesertCamo_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Taupe_Feline</defName>
+        <label>Taupe Eyes</label>
+        <labelShortAdj>Taupe-eyed</labelShortAdj>
+        <description>Carriers of this gene have Green eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TaupeIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Taupe_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Taupe_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Taupe_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Taupe_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <!-- Blue -->
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Teal_Feline</defName>
+        <label>Teal Eyes</label>
+        <labelShortAdj>Teal-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TealIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Teal_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Teal_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Teal_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Teal_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Denim_Feline</defName>
+        <label>Denim Eyes</label>
+        <labelShortAdj>Denim-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/DenimIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Denim_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Denim_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Denim_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Denim_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_CoolMint_Feline</defName>
+        <label>Cool Mint Eyes</label>
+        <labelShortAdj>CoolMint-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/CoolMintIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/CoolMint_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/CoolMint_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/CoolMint_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/CoolMint_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_IslandLagoon_Feline</defName>
+        <label>Island Lagoon Eyes</label>
+        <labelShortAdj>IslandLagoon-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/IslandLagoonIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IslandLagoon_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IslandLagoon_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IslandLagoon_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/IslandLagoon_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Bluegill_Feline</defName>
+        <label>Bluegill Eyes</label>
+        <labelShortAdj>Bluegill-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BluegillIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bluegill_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bluegill_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bluegill_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Bluegill_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_BlueSuede_Feline</defName>
+        <label>Blue Suede Eyes</label>
+        <labelShortAdj>BlueSuede-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BlueSuedeIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueSuede_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueSuede_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueSuede_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueSuede_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_SummerSky_Feline</defName>
+        <label>Summer Sky Eyes</label>
+        <labelShortAdj>SummerSky-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/SummerSkyIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SummerSky_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SummerSky_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SummerSky_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/SummerSky_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_TidalPool_Feline</defName>
+        <label>Tidal Pool Eyes</label>
+        <labelShortAdj>TidalPool-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/TidalPoolIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TidalPool_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TidalPool_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TidalPool_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/TidalPool_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_MauiSurf_Feline</defName>
+        <label>Maui Surf Eyes</label>
+        <labelShortAdj>MauiSurf-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/MauiSurfIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MauiSurf_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MauiSurf_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MauiSurf_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/MauiSurf_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_CoolAzul_Feline</defName>
+        <label>Cool Azul Eyes</label>
+        <labelShortAdj>CoolAzul-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/CoolAzulIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/CoolAzul_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/CoolAzul_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/CoolAzul_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/CoolAzul_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_RegalBlue_Feline</defName>
+        <label>Regal Blue Eyes</label>
+        <labelShortAdj>RegalBlue-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/RegalBlueIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/RegalBlue_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/RegalBlue_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/RegalBlue_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/RegalBlue_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_WildBlueberry_Feline</defName>
+        <label>Wild Blueberry Eyes</label>
+        <labelShortAdj>WildBlueberry-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/WildBlueberryIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/WildBlueberry_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/WildBlueberry_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/WildBlueberry_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/WildBlueberry_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Cobalt_Feline</defName>
+        <label>Cobalt Eyes</label>
+        <labelShortAdj>Cobalt-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/CobaltIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cobalt_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cobalt_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cobalt_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Cobalt_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Blurple_Feline</defName>
+        <label>Blurple Eyes</label>
+        <labelShortAdj>Blurple-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BlurpleIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Blurple_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Blurple_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Blurple_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Blurple_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_BlueMarlin_Feline</defName>
+        <label>Blue Marlin Eyes</label>
+        <labelShortAdj>BlueMarlin-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/BlueMarlinIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueMarlin_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueMarlin_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueMarlin_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/BlueMarlin_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_Gulfstream_Feline</defName>
+        <label>Gulf stream Eyes</label>
+        <labelShortAdj>Gulfstream-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/GulfstreamIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Gulfstream_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Gulfstream_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Gulfstream_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/Gulfstream_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+
+    <GeneDef ParentName="GeneEyeColor">
+        <defName>Eyes_DeepSea_Feline</defName>
+        <label>Deep Sea Eyes</label>
+        <labelShortAdj>DeepSea-eyed</labelShortAdj>
+        <description>Carriers of this gene have Blue eyes.</description>
+        <displayCategory>EyeColoursFeline</displayCategory>
+        <iconPath>UI/Icons/Genes/Feline/DeepSeaIcon_Feline</iconPath>
+        <displayOrderInCategory>1</displayOrderInCategory>
+
+        <renderNodeProperties>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DeepSea_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DeepSea_Feline</texPathFemale>
+                <anchorTag>RightEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Right</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                    </defaultData>
+                </drawData>
+            </li>
+            <li Class="PawnRenderNodeProperties_Eye">
+                <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DeepSea_Feline</texPath>
+                <texPathFemale>Things/Pawn/Humanlike/HeadAttachments/Eyes/FelineEyes/DeepSea_Feline</texPathFemale>
+                <anchorTag>LeftEye</anchorTag>
+                <rotDrawMode>Fresh, Rotting</rotDrawMode>
+                <parentTagDef>Head</parentTagDef>
+                <drawSize>0.21</drawSize>
+                <side>Left</side>
+                <drawData>
+                    <defaultData>
+                        <layer>54</layer>
+                        <offset>(0, 0, -0.25)</offset>
+                        <flip>true</flip>
+                    </defaultData>
+                    <dataWest>
+                        <flip>false</flip>
+                    </dataWest>
+                </drawData>
+            </li>
+        </renderNodeProperties>
+
+    </GeneDef>
+</Defs>
+        

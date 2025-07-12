@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <GeneCategoryDef>
+        <defName>EyeColours</defName>
+        <label>Cosmetic - Human Eye Colours</label>
+        <displayPriorityInXenotype>-19071</displayPriorityInXenotype>
+        <displayPriorityInGenepack>-135</displayPriorityInGenepack>
+    </GeneCategoryDef>
+    
+    <GeneCategoryDef>
+        <defName>EyeColoursFeline</defName>
+        <label>Cosmetic - Feline Eye Colours</label>
+        <displayPriorityInXenotype>-19072</displayPriorityInXenotype>
+        <displayPriorityInGenepack>-135</displayPriorityInGenepack>
+    </GeneCategoryDef>
+
+    <GeneCategoryDef>
+        <defName>EyeColoursReptile</defName>
+        <label>Cosmetic - Reptile Eye Colours</label>
+        <displayPriorityInXenotype>-19073</displayPriorityInXenotype>
+        <displayPriorityInGenepack>-135</displayPriorityInGenepack>
+    </GeneCategoryDef>
+</Defs>
