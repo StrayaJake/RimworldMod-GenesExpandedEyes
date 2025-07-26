@@ -4,3 +4,5 @@ A:\Git Repos\RimworldMod-GenesExpandedEyes\LFSGeneExpandedEyes\obj\Debug\LFSGene
 A:\Git Repos\RimworldMod-GenesExpandedEyes\LFSGeneExpandedEyes\obj\Debug\LFSGeneExpandedEyes.csproj.CoreCompileInputs.cache
 A:\Git Repos\RimworldMod-GenesExpandedEyes\LFSGeneExpandedEyes\obj\Debug\LFSGeneExpandedEyes.dll
 A:\Git Repos\RimworldMod-GenesExpandedEyes\LFSGeneExpandedEyes\obj\Debug\LFSGeneExpandedEyes.pdb
+A:\Git Repos\RimworldMod-GenesExpandedEyes\LFSGeneExpandedEyes\Builds\UnityEngine.CoreModule.dll
+A:\Git Repos\RimworldMod-GenesExpandedEyes\LFSGeneExpandedEyes\obj\Debug\LFSGeneExpandedEyes.csproj.CopyComplete

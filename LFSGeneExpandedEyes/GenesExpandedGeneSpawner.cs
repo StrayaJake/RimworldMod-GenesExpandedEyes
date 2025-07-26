@@ -41,11 +41,6 @@ namespace LFS_GenesExpandedEyes
             base.DoSettingsWindowContents(inRect);
         }
 
-        /// <summary>
-        /// Override SettingsCategory to show up in the list of settings.
-        /// Using .Translate() is optional, but does allow for localisation.
-        /// </summary>
-        /// <returns>The (translated) mod name.</returns>
         public override string SettingsCategory()
         {
             return "Genes Expanded Eyes";
