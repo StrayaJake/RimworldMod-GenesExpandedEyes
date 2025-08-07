@@ -64,5 +64,6 @@
         <li IfModActive="det.stoneborn">Compatibility/DetStoneborn</li>
         <li IfModActive="det.venators">Compatibility/DetVenators</li>
         <li IfModActive="Sov.ElseudPathf">Compatibility/Nephilim</li>
+        <li IfModActive="Ludeon.RimWorld.Odyssey">Compatibility/RMStarJack/</li>
     </v1.6>
 </loadFolders>
