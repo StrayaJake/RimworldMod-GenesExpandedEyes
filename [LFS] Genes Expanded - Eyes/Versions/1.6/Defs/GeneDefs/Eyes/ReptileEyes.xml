@@ -9,6 +9,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/YellowfinIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Yellowfin_Reptile</texPath>
@@ -55,7 +56,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/BananaSplitIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/BananaSplit_Reptile</texPath>
@@ -102,7 +103,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/TaxiCabIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/TaxiCab_Reptile</texPath>
@@ -151,6 +152,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/GoldFishIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>        
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/GoldFish_Reptile</texPath>
@@ -198,7 +200,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/BurntOrangeIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/BurntOrange_Reptile</texPath>
@@ -246,7 +248,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/ClayIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Clay_Reptile</texPath>
@@ -293,7 +295,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/TangerineIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Tangerine_Reptile</texPath>
@@ -343,7 +345,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/PaleLavenderIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/PaleLavender_Reptile</texPath>
@@ -391,7 +393,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/LilacIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Lilac_Reptile</texPath>
@@ -439,7 +441,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/OrchidIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Orchid_Reptile</texPath>
@@ -487,7 +489,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/PlumIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Plum_Reptile</texPath>
@@ -535,7 +537,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/VioletIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Violet_Reptile</texPath>
@@ -583,7 +585,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/GrapeIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Grape_Reptile</texPath>
@@ -630,7 +632,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/PurpleIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Purple_Reptile</texPath>
@@ -678,7 +680,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/AmethystIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Amethyst_Reptile</texPath>
@@ -725,7 +727,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/PurpleHeartIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/PurpleHeart_Reptile</texPath>
@@ -775,7 +777,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/BubblegumIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Bubblegum_Reptile</texPath>
@@ -823,7 +825,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/FuchsiaIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Fuchsia_Reptile</texPath>
@@ -871,7 +873,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/RoseIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Rose_Reptile</texPath>
@@ -919,6 +921,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/RaspberryIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Raspberry_Reptile</texPath>
@@ -965,7 +968,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/RedfishIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Redfish_Reptile</texPath>
@@ -1013,7 +1016,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/FireRedIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/FireRed_Reptile</texPath>
@@ -1061,7 +1064,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/MarsRedIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/MarsRed_Reptile</texPath>
@@ -1109,7 +1112,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/CranberryIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Cranberry_Reptile</texPath>
@@ -1157,7 +1160,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/BurgundyIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Burgundy_Reptile</texPath>
@@ -1205,7 +1208,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/MerlotIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Merlot_Reptile</texPath>
@@ -1255,7 +1258,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/WhiteIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/White_Reptile</texPath>
@@ -1303,7 +1306,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/SilverShinerIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/SilverShiner_Reptile</texPath>
@@ -1351,7 +1354,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/GhostGreyIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/GhostGrey_Reptile</texPath>
@@ -1399,7 +1402,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/SilverSmokeIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/SilverSmoke_Reptile</texPath>
@@ -1447,7 +1450,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/TinCanIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/TinCan_Reptile</texPath>
@@ -1495,7 +1498,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/SmokeScreenIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/SmokeScreen_Reptile</texPath>
@@ -1543,7 +1546,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/ForgedSteelIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/ForgedSteel_Reptile</texPath>
@@ -1590,7 +1593,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/IronOreIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/IronOre_Reptile</texPath>
@@ -1638,7 +1641,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/StormCloudIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/StormCloud_Reptile</texPath>
@@ -1686,7 +1689,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/BlackIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Black_Reptile</texPath>
@@ -1736,7 +1739,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/RattanIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Rattan_Reptile</texPath>
@@ -1784,7 +1787,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/MidasGoldIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/MidasGold_Reptile</texPath>
@@ -1832,7 +1835,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/BeesWaxIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/BeesWax_Reptile</texPath>
@@ -1880,7 +1883,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/SunsetIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Sunset_Reptile</texPath>
@@ -1928,7 +1931,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/TeakIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Teak_Reptile</texPath>
@@ -1976,7 +1979,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/AlmondIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Almond_Reptile</texPath>
@@ -2024,7 +2027,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/DesertSandIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/DesertSand_Reptile</texPath>
@@ -2072,7 +2075,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/CopperIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Copper_Reptile</texPath>
@@ -2120,7 +2123,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/BrownIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Brown_Reptile</texPath>
@@ -2168,7 +2171,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/ChestnutIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Chestnut_Reptile</texPath>
@@ -2216,7 +2219,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/ChocolateIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Chocolate_Reptile</texPath>
@@ -2265,7 +2268,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/KiwiIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Kiwi_Reptile</texPath>
@@ -2313,7 +2316,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/PeaSoupIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/PeaSoup_Reptile</texPath>
@@ -2361,7 +2364,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/SageIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Sage_Reptile</texPath>
@@ -2409,7 +2412,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/GuacamoleIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Guacamole_Reptile</texPath>
@@ -2457,7 +2460,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/RainforestIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Rainforest_Reptile</texPath>
@@ -2505,7 +2508,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/OakLeafIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/OakLeaf_Reptile</texPath>
@@ -2553,7 +2556,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/JadeIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Jade_Reptile</texPath>
@@ -2600,7 +2603,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/FernIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Fern_Reptile</texPath>
@@ -2648,7 +2651,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/EvergreenIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Evergreen_Reptile</texPath>
@@ -2695,7 +2698,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/OliveIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Olive_Reptile</texPath>
@@ -2743,7 +2746,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/DesertCamoIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/DesertCamo_Reptile</texPath>
@@ -2791,7 +2794,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/TaupeIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Taupe_Reptile</texPath>
@@ -2841,7 +2844,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/TealIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Teal_Reptile</texPath>
@@ -2889,7 +2892,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/DenimIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Denim_Reptile</texPath>
@@ -2937,7 +2940,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/CoolMintIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/CoolMint_Reptile</texPath>
@@ -2985,7 +2988,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/IslandLagoonIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/IslandLagoon_Reptile</texPath>
@@ -3033,7 +3036,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/BluegillIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Bluegill_Reptile</texPath>
@@ -3080,7 +3083,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/BlueSuedeIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/BlueSuede_Reptile</texPath>
@@ -3128,7 +3131,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/SummerSkyIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/SummerSky_Reptile</texPath>
@@ -3176,7 +3179,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/TidalPoolIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/TidalPool_Reptile</texPath>
@@ -3223,7 +3226,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/MauiSurfIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/MauiSurf_Reptile</texPath>
@@ -3270,7 +3273,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/CoolAzulIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/CoolAzul_Reptile</texPath>
@@ -3318,7 +3321,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/RegalBlueIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/RegalBlue_Reptile</texPath>
@@ -3366,7 +3369,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/WildBlueberryIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/WildBlueberry_Reptile</texPath>
@@ -3414,7 +3417,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/CobaltIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Cobalt_Reptile</texPath>
@@ -3462,7 +3465,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/BlurpleIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Blurple_Reptile</texPath>
@@ -3509,7 +3512,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/BlueMarlinIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/BlueMarlin_Reptile</texPath>
@@ -3557,7 +3560,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/GulfstreamIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/Gulfstream_Reptile</texPath>
@@ -3605,7 +3608,7 @@
         <displayCategory>EyeColoursReptile</displayCategory>
         <iconPath>UI/Icons/Genes/Reptile/DeepSeaIcon_Reptile</iconPath>
         <displayOrderInCategory>1</displayOrderInCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <renderNodeProperties>
             <li Class="PawnRenderNodeProperties_Eye">
                 <texPath>Things/Pawn/Humanlike/HeadAttachments/Eyes/ReptileEyes/DeepSea_Reptile</texPath>
