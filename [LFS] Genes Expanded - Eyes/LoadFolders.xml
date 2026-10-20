@@ -66,4 +66,27 @@
         <li IfModActive="Sov.ElseudPathf">Compatibility/Nephilim</li>
         <li IfModActive="Ludeon.RimWorld.Odyssey">Compatibility/RMStarJack/</li>
     </v1.6>
+    <v1.7>
+        <li>Versions/1.7</li>
+        <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
+        <li IfModActive="lazyfridaystudio.nightShademercenarys">Compatibility/LFSNightShadeMercenaries</li>
+        <li IfModActive="Nals.FacialAnimation">Compatibility/FacialAnimation/1.5</li>
+        <li IfModActive="filox.xenotype">Compatibility/FiloxXenoType/</li>
+        <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
+        <li IfModActive="Turnovus.Biotech.IntegratedXenotypes">Compatibility/IntegratedXenos</li>
+        <li IfModActive="vanillaracesexpanded.android">Compatibility/VREAndroid</li>
+        <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREArchon</li>
+        <li IfModActive="vanillaracesexpanded.fungoid">Compatibility/VREFungoid</li>
+        <li IfModActive="vanillaracesexpanded.Phytokin">Compatibility/VREPhytokin</li>
+        <li IfModActive="vanillaracesexpanded.pigskin">Compatibility/VREPigSkin</li>
+        <li IfModActive="vanillaracesexpanded.lycanthrope">Compatibility/VRELycanthrope</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
+        <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
+        <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/VRESanguophage</li>
+        <li IfModActive="det.boglegs">Compatibility/DetBoglegs</li>
+        <li IfModActive="det.stoneborn">Compatibility/DetStoneborn</li>
+        <li IfModActive="det.venators">Compatibility/DetVenators</li>
+        <li IfModActive="Sov.ElseudPathf">Compatibility/Nephilim</li>
+        <li IfModActive="Ludeon.RimWorld.Odyssey">Compatibility/RMStarJack/</li>
+    </v1.7>
 </loadFolders>
